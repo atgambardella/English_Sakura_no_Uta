@@ -1,0 +1,3410 @@
+<204,71480,6>bgm004
+<244,71487,7>sp0065a
+<316,71495,6>map023
+<324,71502,7>sp0065b
+<372,71495,6>map023
+<380,71510,7>sp0065c
+<452,71495,6>map023
+<460,71518,7>sp0065d
+<508,71495,6>map023
+<516,71526,7>sp0065e
+<588,71495,6>map023
+<596,71534,7>sp0065f
+<700,71542,7>ic0001a
+<844,71550,7>sp0003a
+<884,71558,6>bgm021
+;<940,71565,38>それが虚無ならば虚無自身がこのとほりで
+<940,71565,38>If it was nothingness, then nothingness itself is like this
+;<972,71604,36>ある程度まではみんなに共通いたします
+<972,71604,36>This is common to everyone to some extent
+;<1004,71641,40>すべてがわたくしの中のみんなであるやうに
+<1004,71641,40>Just like the world inside me is everything,
+;<1036,71682,38>みんなのおのおののなかのすべてですから
+<1036,71682,38>That which is inside everyone, is all that there is
+;<1068,71721,14>『春と修羅』序
+<1068,71721,14>"Spring and Asura" Preface
+<1100,71736,0>
+;<1268,71737,30>　ただ、舞い散る桜を見ている。
+<1268,71737,30>I'm just watching the cherry blossoms flutter down.
+;<1324,71768,44>　その風景には、悲しさも、痛みも、なかった。
+<1324,71768,44>That landscape contained no sadness, no pain.
+;<1380,71813,38>　だから、俺は泣かなかったのだろうか？
+<1380,71813,38>Is that why I didn't cry?
+;<1436,71852,106>　風に舞う<r うすくれない>薄紅</r>は、たしかに美しくはあったが、俺にはただそれだけの事としか感じられない。
+<1436,71852,106>The pale crimson dancing in the wind was certainly beautiful to an extent, but that's all I felt.
+;<1492,71959,104>　鼻につくような桜の香り――いや、桜にそんな強い芳香などない――の中を人々の手によって大事に運ばれる棺。
+<1492,71959,104>The scent of cherry blossoms that stuck to my nose - no...cherry blossoms don't have such a strong fragrance - was the backdrop for us, delicately carrying a coffin.
+;<1548,72064,37>　桜の美しさの中にいる親父の死骸は、\n
+<1548,72064,37>My father's corpse, within the beauty of the cherry blossoms...\n
+;<1604,72102,22>ただ、醜いだけだった。
+<1604,72102,22>was just hideous.
+;<1660,72125,45>　桜の美しさを引き立たせる役目すら負えない。\n
+<1660,72125,45>It does not even suffice to bring out the beauty in the cherry blossoms. 
+;<1716,72171,28>木箱につめられた親父の死骸。
+<1716,72171,28>My father's corpse, stuffed in a coffin.
+;<1772,72200,40>　木箱から見つめる世界はどんなだろうか？
+<1772,72200,40>I wonder what the world looks like from a coffin.
+;<1828,72241,20>　彼の世界の終わり。
+<1828,72241,20>The end of his world.
+;<1884,72262,26>　彼が信じた世界の消失点。
+<1884,72262,26>The point at which the world in which he believed had vanished.
+;<1940,72289,10>　桜の森。
+<1940,72289,10>Cherry blossom forest.
+;<1996,72300,12>　風が吹く。
+<1996,72300,12>The wind blows.
+;<2052,72313,12>　桜が舞う。
+<2052,72313,12>The cherry blossoms dance.
+;<2108,72326,44>　春の空を<r うすくれない>薄紅</r>に染める。
+<2108,72326,44>The spring sky is bathed in pale crimson.
+;<2164,72371,18>　その姿は美しい。
+<2164,72371,18>It's beautiful.
+<2244,72390,7>sp0004a
+;<2348,72398,94>　葬儀場に降り注ぐ薄紅の花弁に視界を霞ませながら、俺は唯一の肉親であった、親父の棺を見送った。
+<2348,72398,94>I sent off the coffin of my father, my sole blood relative, with my eyesight clouded by the downpour of pale crimson petals at the funeral venue.
+;<2404,72493,74>　関係者だけのささやかな葬儀の終了と共に、親父の人生に一応の終止符をうつ。
+<2404,72493,74>My father's life was put to a close with the end of a simple ceremony for those closest to him.
+;<2460,72568,48>　今、桜の森で立つ俺の瞳からは涙は流れていない。
+<2460,72568,48>No tears are flowing from my eyes while I stand here in the cherry blossom forest.
+;<2516,72617,42>　そして、悲しいという感情も見あたらない。
+<2516,72617,42>Nor do I feel sadness.
+;<2572,72660,40>　ここからの風景に悲しさは見あたらない。
+<2572,72660,40>This landscape isn't suited for sadness.
+;<2628,72701,35>　周りの人たちはどうなんだろうか？\n
+<2628,72701,35>I wonder about the others.\n
+;<2684,72737,25>やはり悲しいのだろうか？\n
+<2684,72737,25>Surely they must be sad.\n
+;<2740,72763,20>心が痛むのだろうか？
+<2740,72763,20>Surely their hearts must feel pain.
+;<2796,72784,86>　ただ……舞い散る桜の下の死骸を見つめていると、否が応でも思い出してしまうものがある。
+<2796,72784,86>It's just...when I look at the corpse under the fluttering cherry blossoms, there's one thing that I can't help but remember.
+;<2852,72871,27>　心に一瞬だけ亀裂が走る。\n
+<2852,72871,27>A crack runs through my heart for just an instant.\n
+;<2908,72899,24>親父が描いた桜の姿が……
+<2908,72899,24>I thought of the cherry blossom that my father drew...
+;<2964,72924,51>　それこそ数えきれぬ作品をこの世に残した親父だが、\n
+<2964,72924,51>Within the countless pieces that my father left to the world, 
+;<3020,72976,32>あの男が描いた桜は一枚しかない。
+<3020,72976,32>there was but one cherry blossom that he drew.
+;<3076,73009,54>　にもかかわらず、その一枚は彼の代表作と言われていた。
+<3076,73009,54>And yet, that piece became known as his defining work.
+;<3132,73064,62>　他のあらゆる題材でなく、その一枚が彼を不動の芸術家とさせた。
+<3132,73064,62>It was this one piece, and not any of the others, that made him an established artist.
+<3260,73127,7>sp0005a
+<3292,73135,7>sp0005b
+<3324,73143,7>sp0005c
+;<3428,73151,16>　――横たわる櫻
+<3428,73151,16>"Lying Cherry Blossom"
+;<3484,73168,35>　この奇っ怪な題名の通りその絵は、\n
+<3484,73168,35>As you could imagine from the strange name of the piece,\n
+;<3540,73204,52>ねじ曲がり、地べたにはいつくばる様な桜の絵であった。
+<3540,73204,52>it was a painting in which a cherry blossom had warped itself, and ended up thrown onto the dirt.
+;<3596,73257,32>　それは完全に死者を連想させる。
+<3596,73257,32>It made one think of the dead.
+;<3652,73290,25>　絶命の床にある桜が――\n
+<3652,73290,25>The cherry blossom on the floor of death...\n
+;<3708,73316,30>薄暗い闇に白を咲き散らす様相。
+<3708,73316,30>an aspect, scattering white into the pale darkness.
+;<3764,73347,53>　もちろん、ここにはその様な奇っ怪な桜の木などない。\n
+<3764,73347,53>Of course, there were no cherry blossom trees with such a strange figure here. 
+;<3820,73401,38>ごく見慣れた春の風景があるにすぎない。
+<3820,73401,38>There was no more than the spring landscape to which I had become accustomed.
+;<3876,73440,47>　にも関わらず、あの男の死が彩られた桜の森は、\n
+<3876,73440,47>And yet, the cherry blossom forest which had brought color to that man's death...
+;<3932,73488,95>横たわる櫻の呪いにかかったかの様に、不気味な;< うすざくら>薄桜</r>を咲き散らしている様に見えた。
+<3932,73488,95>had scattered a disgusting light pink, as if it had come under the curse of the Lying Cherry Blossom.
+;<3988,73584,54>　『横たわる櫻』以外にあの男は桜の絵を発表しなかった。
+<3988,73584,54>That man never released a painting of cherry blossoms other than "Lying Cherry Blossom".
+;<4044,73639,76>　それでも彼の一般的なイメージは桜であったし、そして彼自身も桜を愛していた。
+<4044,73639,76>And yet, the general image of him was that of cherry blossoms, and he himself had loved cherry blossoms.
+;<4100,73716,20>　批評家は口にする。
+<4100,73716,20>The critics said that it showcases a calm, beautiful world.
+;<4156,73737,34>　静止した美しき世界。絶命の一瞬。
+<4156,73737,34>The moment of life's end.
+;<4212,73772,88>　薄桜を咲き散らす老桜の巨木は、腐敗臭を放つ死骸の様であり、透き通った永遠の死でもあり、
+<4212,73772,88>The light pink, scattered by the large, elderly tree, released the stench of a corpse, and resembled a translucent, eternal death.
+;<4268,73861,50>　それは美しくも醜い、死のイメージそのものである。
+<4268,73861,50>It was beautiful and hideous. The image of death itself.
+;<4324,73912,38>　何度か雑誌でその様な文章を目にした。
+<4324,73912,38>I saw these words in the journals over and over again.
+;<4380,73951,74>　批評家と言われる偉くて頭が良い人達が言うのだから、たぶんそうなのだろう。
+<4380,73951,74>Critics are well-respected and smart, so it must be true.
+;<4436,74026,27>　俺にはよく分からないし、\n
+<4436,74026,27>But I don't really know,\n
+;<4492,74054,24>あまり分かりたくもない。
+<4492,74054,24>nor am I interested in knowing.
+<4620,74079,7>sp0007a
+;<4724,74087,30>　ただ俺でも分かることがある。
+<4724,74087,30>But there is one thing that even I know.
+;<4780,74118,24>　今、この場にある風景。
+<4780,74118,24>The landscape, right here and right now...
+;<4836,74143,78>　桜色が咲き散るこの森の下で、運ばれる彼の死骸に、その様な複雑な様相などない。
+<4836,74143,78>Under the forest in which cherry blossom colors scatter in the air, there are no such complex aspects in his carried corpse.
+;<4892,74222,30>　あるのは当たり前すぎる対比。
+<4892,74222,30>There is only a too-obvious comparison.
+;<4948,74253,23>　美しい桜と醜い死骸。\n
+<4948,74253,23>Beautiful cherry blossoms and a hideous corpse.\n
+;<5004,74277,54>咲き誇る強い香りと、腐敗臭を殺す防腐剤漬けの死骸だけ。
+<5004,74277,54>The powerful scent of flowers blooming in all their glory, and a corpse, preserved to prevent the stench of rot.
+;<5060,74332,15>　桜の森の下。\n
+<5060,74332,15>Under the cherry blossom forest,\n
+;<5116,74348,29>俺は今、あの絵を思い出した。\n
+<5116,74348,29>I remembered that painting. \n
+;<5172,74378,22>そして少しだけ考えた。
+<5172,74378,22>And then I thought to myself for a bit:
+;<5228,74401,37>　ここからの風景とあいつの絵の事を、\n
+<5228,74401,37>It's not that the landscape here is similar 
+;<5284,74439,31>だがそれは同じだからではなく。\n
+<5284,74439,31>to that in his painting,\n
+;<5340,74471,32>決定的に違うからこそ想起された。
+<5340,74471,32>but rather that they are so different, that I am made to remember.
+;<5396,74504,18>　そう結論づけた。
+<5396,74504,18>Or so I concluded.
+;<5452,74523,60>　非凡な桜の姿を描いた男の死は、平凡な葬式でその幕を閉じた。
+<5452,74523,60>With an unremarkable funeral, the curtain was closed on the life of a man who drew a remarkable cherry blossom.
+;<5508,74584,124>　もしかしたら、そう思うことが、草薙健一郎に対するもっとも屈辱的な復讐を成すという、ガキっぽい妄想だったのかもしれない……。
+<5508,74584,124>Maybe these thoughts would be the most insulting form of revenge to Ken'ichiro Kusanagi...or maybe that's just my childish delusion.
+;<5564,74709,30>　実際、それもよく分からない。
+<5564,74709,30>In honesty, I don't really know.
+;<5620,74740,22>　よく分からないが――
+<5620,74740,22>I don't know, but...
+;<5676,74763,82>　どちらにしろ、俺と唯一、血のつながった最後の人間が世界から消え失せた日であった。
+<5676,74763,82>At any rate, that was the day on which the sole human being connected to me by blood had left this world.
+;<5732,74846,30>　その事だけはたしかであった。
+<5732,74846,30>That much was certain.
+<5860,74877,7>evb000a
+<5932,74885,10>ked_000001
+;<5980,74896,6>？？？
+<5980,74896,6>???
+;<5988,74903,24>「終わったな、直哉……」
+<5988,74903,24>"It's over, Naoya"
+;<6036,74928,4>直哉
+<6036,74928,4>Naoya
+;<6044,74933,24>「ああ、終わったな……」
+<6044,74933,24>"Yeah, it's over"
+<6068,74958,10>ked_000002
+;<6116,74896,6>？？？
+<6116,74896,6>???
+;<6124,74969,20>「大変だったな……」
+<6124,74969,20>"Must have been rough"
+;<6172,74928,4>直哉
+<6172,74928,4>Naoya
+;<6180,74990,18>「いや、別に……」
+<6180,74990,18>"No, not really..."
+;<6228,74928,4>直哉
+<6228,74928,4>Naoya
+;<6236,75009,58>「身内の葬式はこれで二回目だしな、大変な事もなかった……」
+<6236,75009,58>"This is the second time I've had a funeral for a relative. It's not really that bad..."
+<6268,75068,7>evb000b
+<6292,75076,10>ked_000003
+;<6340,74896,6>？？？
+<6340,74896,6>???
+;<6348,75087,12>「直哉……」
+<6348,75087,12>"Naoya..."
+;<6404,75100,56>　悲しそうな表情で、まるで少女の様な顔が俺をのぞき込む。
+<6404,75100,56>They had a despondent expression, looking at me with an almost girlish face.
+;<6460,75157,26>　潤んだ瞳……透き通る肌。
+<6460,75157,26>Wet eyes...translucent skin.
+;<6516,75184,108>　何も知らない男ならば、この容姿にこの様な表情でのぞき込まれれば、それだけで平静ではいられないかもしれない。
+<6516,75184,108>To a man who knows nothing, just being looked at with this expression and figure...maybe that would be enough to lose your cool.
+;<6572,75293,90>　だが、この美しい顔の持ち主の性別を知って、同性ならば、違った感情に満たされると思われる。
+<6572,75293,90>But those who come to know the sex of this beautiful face's owner may find themselves filled with different emotions, were it the same as their own.
+;<6628,75384,38>　当然、こいつは少女でもなんでもない。
+<6628,75384,38>Of course, this guy isn't a girl at all.
+;<6684,75423,20>　名は夏目圭。男だ。
+<6684,75423,20>His name is Kei Natsume. And he's a man.
+<6716,75444,7>evb000c
+;<6764,74928,4>直哉
+<6764,74928,4>Naoya
+;<6772,75452,38>「圭、そんな顔で俺を見ないでくれ……」
+<6772,75452,38>"Kei, don't look at me with that face..."
+<6796,75491,10>ked_000004
+;<6844,75502,2>圭
+<6844,75502,2>Kei
+;<6852,75505,24>「直哉……どうしたんだ」
+<6852,75505,24>"Naoya...what's wrong?"
+;<6900,74928,4>直哉
+<6900,74928,4>Naoya
+;<6908,75530,32>「少し……気持ちが悪いんだ……」
+<6908,75530,32>"It sort of...makes me sick..."
+<6932,75563,10>ked_000005
+;<6980,75502,2>圭
+<6980,75502,2>Kei
+;<6988,75574,40>「どうした？　気分が悪いのか？　直哉？」
+<6988,75574,40>"What's wrong? You don't feel well? Naoya?"
+;<7036,74928,4>直哉
+<7036,74928,4>Naoya
+;<7044,75615,34>「ああ……そうかもしれないな……」
+<7044,75615,34>"Yeah...maybe something like that"
+<7076,75068,7>evb000b
+;<7132,75650,40>　俺は空を仰ぎ……舞い散る桜を見つめる。
+<7132,75650,40>I looked up at the sky, and stare at the fluttering cherry blossoms.
+;<7180,74928,4>直哉
+;<7180,74928,4>直哉
+<7180,74928,4>Naoya
+;<7188,75691,20>「本当は違った……」
+<7188,75691,20>"I...was wrong"
+<7220,75712,7>evb000d
+<7244,75720,10>ked_000006
+;<7292,75502,2>圭
+<7292,75502,2>Kei
+;<7300,75731,14>「違うのか？」
+<7300,75731,14>"Wrong?"
+;<7348,74928,4>直哉
+<7348,74928,4>Naoya
+;<7356,75746,36>「圭に真実など告げられなかった……」
+<7356,75746,36>"I couldn't tell you the truth"
+<7380,75783,10>ked_000007
+;<7428,75502,2>圭
+<7428,75502,2>Kei
+;<7436,75794,30>「し、真実って何だ？　直哉？」
+<7436,75794,30>"Wh...What do you mean by truth? Naoya?"
+;<7524,74928,4>直哉
+<7524,74928,4>Naoya
+;<7532,75825,56>「いくら何でもお前の顔がキモイとは言えなかったから……」
+<7532,75825,56>"No matter what, I couldn't tell you how sickening your face is"
+<7564,75882,7>evb000e
+<7604,75890,6>bgm012
+<7636,75897,10>ked_000008
+;<7684,75502,2>圭
+<7684,75502,2>Kei
+;<7692,75908,18>「な、なんだと！」
+<7692,75908,18>"Wh...What!?"
+;<7740,74928,4>直哉
+<7740,74928,4>Naoya
+;<7748,75927,92>「そんなキモイ顔でのぞき込まれたら、そりゃ気分も悪くなるだろう……なんてとても言えない……」
+<7748,75927,92>"Anyone would feel worse when such a sickening face is looking at them...but I really shouldn't be saying that..."
+<7772,76020,10>ked_000009
+;<7820,75502,2>圭
+<7820,75502,2>Kei
+;<7828,76031,76>「うわぁん！　なんだと！　俺の顔はキモくなんかないぞ！　ひどいぞいきなり！」
+<7828,76031,76>"Hey what!? My face isn't sickening! How can you suddenly say such a horrible thing!?"
+<7860,76108,7>evb000f
+;<7908,74928,4>直哉
+<7908,74928,4>Naoya
+;<7916,76116,32>「な、何故俺が考えてた事を！？」
+<7916,76116,32>"How...How are you reading my thoughts!?"
+;<7964,74928,4>直哉
+<7964,74928,4>Naoya
+;<7972,76149,182>「あ！　しまった！　圭を傷つけないためにもモノローグで言ってたつもりだったのに！　ああ、あれか！　圭があまりに気持ち悪かったんで、心の声が外に漏れだしてしまっていたのかぁ（棒読み）」
+<7972,76149,182>"Oh, fuck! I didn't want to hurt you so I meant to monologue that! Uhh how can I explain. Your face was so sickening, that I accidentally said the silent part aloud" (deadpanned)
+<7996,76332,10>ked_000010
+;<8044,75502,2>圭
+<8044,75502,2>Kei
+;<8052,76343,114>「なんだそれ！　俺が気持ちが悪いとかひどいぞ！　訂正しろ！　訂正しろ！　訂正しないと、うわぁぁぁん、コロスぅぅ！」
+<8052,76343,114>"What the hell is that! Don't call me sickening! Take it back! Take it back! If you don't take it back...ugh I'll kill you!!"
+;<8100,74928,4>直哉
+<8100,74928,4>Naoya
+;<8108,76458,64>「あははははははは抱きつくな！　このキモイ生き物はぁ、コロスぞ」
+<8108,76458,64>"Hey hey hey don't hug me! I'm gonna kill you, you disgusting animal."
+<8132,76523,10>ked_000011
+;<8180,75502,2>圭
+<8180,75502,2>Kei
+;<8188,76534,142>「なんだと！　殺されるのはお前だ！　うわぁん！　いちいちむかつく事を言う奴だな！！　抱きついてるんじゃない！　殴りかかってるんだ！　このぉ！」
+<8188,76534,142>"What! You're the one who's getting killed! Ah! Everything you say gets on my nerves! I'm not trying to hug you, I'm gonna hit you you moron!"
+;<8236,74928,4>直哉
+<8236,74928,4>Naoya
+;<8244,76677,30>「う、うおぉ……ま、待て……」
+<8244,76677,30>"W-Wait..."
+<8276,76708,7>sp0010a
+<8308,76716,6>se3356
+<8396,76723,7>ev6000a
+;<8444,74928,4>直哉
+<8444,74928,4>Naoya
+;<8452,76731,34>「痛てて……危ないヤツだなぁ……」
+<8452,76731,34>"Ow...man this guy's dangerous..."
+<8476,76766,10>ked_000012
+;<8524,75502,2>圭
+<8524,75502,2>Kei
+;<8532,76777,78>「直哉が俺の事を馬鹿にするからだ……人の事をキモイキモイっていいやがって！！」
+<8532,76777,78>"It's because you take me for an idiot. Don't call people sickening all the time like that!"
+;<8580,74928,4>直哉
+<8580,74928,4>Naoya
+;<8588,76856,22>「だって……さぁ……」
+<8588,76856,22>"But you see..."
+;<8644,76879,16>　彼と目があう。
+<8644,76879,16>Our eyes meet.
+;<8692,74928,4>直哉
+<8692,74928,4>Naoya
+;<8700,76896,20>「あはははははは！」
+<8700,76896,20>"Ahahaha!"
+<8724,76917,10>ked_000013
+;<8772,75502,2>圭
+<8772,75502,2>Kei
+;<8780,76928,14>「何故笑う！」
+<8780,76928,14>"Why are you laughing!?"
+;<8828,74928,4>直哉
+<8828,74928,4>Naoya
+;<8836,76943,32>「あはははははははははははは！」
+<8836,76943,32>"Ahahahahahahaha!"
+<8868,76976,7>ev6000b
+<8892,76984,10>ked_000014
+;<8940,75502,2>圭
+<8940,75502,2>Kei
+;<8948,76995,48>「うわぁん！　なんだそれ！　もう辛抱たまらん！」
+<8948,76995,48>"Wh-what the hell is this! I can't take this anymore!"
+;<9004,77044,13>　しまった。\n
+<9004,77044,13>Shit.\n
+;<9060,77058,66>俺とした事が、なんと自分の感情が抑えきれなくなって笑ってしまった。
+<9060,77058,66>Unfortunately for me, I laughed after failing to suppress my feelings.
+;<9108,74928,4>直哉
+<9108,74928,4>Naoya
+;<9116,77125,72>「あはははははは！　ま、待て！　これには理由があるんだ！　うはははは！」
+<9116,77125,72>"Ahahahaha w-wait! There's a reason for this! Ahahaha"
+<9148,76723,7>ev6000a
+<9172,77198,10>ked_000015
+;<9220,75502,2>圭
+<9220,75502,2>Kei
+;<9228,77209,46>「どんな理由だ！　人の顔を見て笑いやがって！」
+<9228,77209,46>"What kind of reason could there be to look at someone's face and laugh!?"
+;<9276,74928,4>直哉
+<9276,74928,4>Naoya
+;<9284,77256,46>「あ、あれだ、笑いと恐怖は紙一重と言うだろ？」
+<9284,77256,46>"W-well they say that laughter and fear are two sides of the same coin"
+<9308,77303,10>ked_000016
+;<9356,75502,2>圭
+<9356,75502,2>Kei
+;<9364,77314,30>「ど、どういう事だ？　それ？」
+<9364,77314,30>"What do you mean?"
+;<9412,74928,4>直哉
+<9412,74928,4>Naoya
+;<9420,77345,46>「あ、いやな、お前が襲ってきて、恐怖してだな」
+<9420,77345,46>"Uhh, when you came after me, I felt fear you see..."
+<9444,77392,10>ked_000017
+;<9492,75502,2>圭
+<9492,75502,2>Kei
+;<9500,77403,28>「俺が襲ってきて？　恐怖？」
+<9500,77403,28>"When I came after you...fear?"
+;<9548,74928,4>直哉
+<9548,74928,4>Naoya
+;<9556,77432,49>「ああ、あまりの恐怖で笑ってしまったんだよ……。\n
+<9556,77432,49>"Yeah, I laughed out of fear...\n
+;<9604,74928,4>直哉
+<9604,74928,4>Naoya
+;<9612,77482,24>お前が恐ろしすぎてだな」
+<9612,77482,24>you were just too scary"
+<9644,77507,7>ev6000c
+<9668,77515,10>ked_000018
+;<9716,75502,2>圭
+<9716,75502,2>Kei
+;<9724,77526,94>「そ、そうか？　そ、そんなに俺が怖かったのか？　恐ろしかったのか？　そ、そうか？　ごめんなぁ」
+<9724,77526,94>"Ah, really? You were that scared? I was that fearful? Wow, ok, I'm sorry..."
+;<9780,77621,40>　何　故　か　うれしそうに夏目圭は笑う。
+<9780,77621,40>Kei Natsume is happily smiling *for    some    reason*.
+;<9836,77662,52>　“恐怖”したという事実に、彼はご満悦の様であった。
+<9836,77662,52>He felt exulted in the fact that he had caused "fear".
+<9860,77715,10>ked_000019
+;<9908,75502,2>圭
+<9908,75502,2>Kei
+;<9916,77726,104>「そうだよな。俺みたいな;<r おとこぎ>侠気</r>あふれる<r おとこ>男</r>が凄みをきかせたら、そりゃ怖いわな」
+<9916,77726,104>"That's right! Anyone would feel scared when threatened by a manly man like me"
+;<9964,74928,4>直哉
+<9964,74928,4>Naoya
+;<9972,77831,52>「;<r おとこぎ>侠気</r>あふれる<r おとこ>男</r>……」
+<9972,77831,52>"A manly man..."
+;<10028,77884,74>　;<r じゅうげん>重言</r>を駆使してまで、自らの「オトコ」を強調する夏目圭。
+<10028,77884,74>Kei Natsume wants to emphasize the MALE part so badly that he said it twice.
+;<10084,77959,52>　俺はそんな彼を少しだけ;<r ふびん>不憫</r>に思った。
+<10084,77959,52>I pitied him a little bit.
+;<10140,78012,42>　夏目圭という生き物は、女にしかみえない。
+<10140,78012,42>The animal known as Kei Natsume only looks like a woman.
+;<10196,78055,52>　だが本人はまったくその事実を受け入れようとしない。
+<10196,78055,52>And yet the person in question does not even attempt to accept this as truth.
+;<10252,78108,34>　現実が見えない男なのだ圭は……。
+<10252,78108,34>Kei is a man who cannot see reality.
+;<10308,78143,29>　そんな彼をみていると……。\n
+<10308,78143,29>When I see him like that...\n
+;<10364,78173,20>悲しすぎて、俺は……
+<10364,78173,20>I'm so sad that I...
+;<10412,74928,4>直哉
+;<10412,74928,4>Naoya
+;<10420,78194,30>「あははははははははははは！」
+<10420,78194,30>"Ahahahahaha"
+<10452,78225,7>ev6000d
+<10476,78233,10>ked_000020
+;<10524,75502,2>圭
+<10524,75502,2>Kei
+;<10532,78244,82>「そんな笑うなよぉ……直哉ぁ、俺はそんな怖くないぞ。直哉には優しいだろ？　いつも」
+<10532,78244,82>"Don't laugh like that!! Naoya! I'm not that scary. I'm always nice to you right?"
+;<10580,74928,4>直哉
+<10580,74928,4>Naoya
+;<10588,78327,40>「あはははははははははははははははは！」
+<10588,78327,40>"Ahahahahahahahahaha"
+<10612,78368,10>ked_000021
+;<10660,75502,2>圭
+<10660,75502,2>Kei
+;<10668,78379,54>「たしかに、俺って少し強そうだし、実際強いしなぁ……」
+<10668,78379,54>"But it's true that I do look pretty strong. Since I am strong after all!"
+;<10716,74928,4>直哉
+<10716,74928,4>Naoya
+;<10724,78434,58>「うははははははははははははははははうはははははははは！」
+<10724,78434,58>"Uwahahahahahahahahahahauwahahahahahahaha!"
+<10756,76723,7>ev6000a
+<10780,78493,10>ked_000022
+;<10828,75502,2>圭
+<10828,75502,2>Kei
+;<10836,78504,12>「……直哉」
+<10836,78504,12>"...Naoya"
+;<10884,74928,4>直哉
+<10884,74928,4>Naoya
+;<10892,78517,66>「わははははははははははははははははははははははははははははは！」
+<10892,78517,66>"Wahahahahahahahahahahahahahahahahahahahahaha!"
+<10916,78584,10>ked_000023
+;<10964,75502,2>圭
+<10964,75502,2>Kei
+;<10972,78595,34>「なんかお前……嘘ついてないか？」
+<10972,78595,34>"Hey you're...not lying right?"
+;<11020,74928,4>直哉
+<11020,74928,4>Naoya
+;<11028,78630,16>「何を根拠に？」
+<11028,78630,16>"On what basis are you accusing me?"
+;<11084,78647,63>　何事も;<r す>過</r>ぎたるは<r なおおよ>猶及</r>ばざるが如し。\n
+<11084,78647,63>More than enough of anything is too much.\n
+;<11140,78711,22>やり過ぎてはいけない。
+<11140,78711,22>Take all things in moderation.
+;<11196,78734,30>　俺はいつもの冷静な俺に戻る。
+<11196,78734,30>I return to my normal, cool self.
+;<11244,74928,4>直哉
+<11244,74928,4>Naoya
+;<11252,78765,30>「俺が嘘などつくわけ……ぷっ」
+<11252,78765,30>"I would never lie...hmph"
+<11276,78796,10>ked_000024
+;<11324,75502,2>圭
+<11324,75502,2>Kei
+;<11332,78807,62>「なに吹いてるんだよ！　やっぱり直哉は俺をバカにしてるだろ！」
+<11332,78807,62>"Why that hmph! You're making an idiot of me aren't you?"
+;<11388,77044,13>　しまった。\n
+<11388,77044,13>Shit.\n
+;<11444,78870,34>なんかこいつの瞳に吹いてしまった。
+<11444,78870,34>I accidentally hmphed right into his eye.
+<11476,76976,7>ev6000b
+<11500,78905,10>ked_000025
+;<11548,75502,2>圭
+<11548,75502,2>Kei
+;<11556,78916,108>「うわぁん！　コロス！　コロス！　もう本気でコロス！　海よりも深く！　山よりも高く！　空よりも広くコロス！」
+<11556,78916,108>"Ahh I'll kill you! I'll kill you! Seriously now I'll kill you! Deeper than the sea! Higher than the mountains! Wider than the sky, I'll kill you!"
+;<11604,74928,4>直哉
+<11604,74928,4>Naoya
+;<11612,79025,70>「あははははは！　くすぐったい！　くすぐったいわ！　あはははははは！」
+<11612,79025,70>"Ahahahaha! That tickles! It really tickles! Ahahahaha!"
+<11636,79096,10>ked_000026
+;<11684,75502,2>圭
+<11684,75502,2>Kei
+;<11692,79107,46>「何がくすぐったいだぁ！　殴ってるんだぞぉ！」
+<11692,79107,46>"What tickles!? I'm hitting you!"
+;<11740,74928,4>直哉
+<11740,74928,4>Naoya
+;<11748,79154,52>「あははははははははは！　やめれ！　やめてくれぇ！」
+<11748,79154,52>"Ahahahaha! Stop! Stop ahah!"
+<11828,79207,6>se2192
+<11852,79214,10>ked_000027
+;<11964,75502,2>圭
+<11964,75502,2>Kei
+;<11972,79225,12>「にゃあ！」
+<11972,79225,12>"Nyaa!"
+<12060,79238,7>ev6000e
+;<12108,74928,4>直哉
+<12108,74928,4>Naoya
+;<12116,79246,38>「はぁ、はぁ、笑い死ぬかと思った……」
+<12116,79246,38>"Haa..haa..I thought I would die of laughter..."
+<12140,79285,10>ked_000028
+;<12188,75502,2>圭
+<12188,75502,2>Kei
+;<12196,79296,46>「直哉……痛いぞ。頭がじんじんするんだぞ……」
+<12196,79296,46>Naoya...that hurts. My head is throbbing...
+;<12244,74928,4>直哉
+<12244,74928,4>Naoya
+;<12252,79343,36>「ああ……そうだな。痛くしたからな」
+<12252,79343,36>"That's right. That's because I made it hurt"
+<12276,79380,10>ked_000029
+;<12324,75502,2>圭
+<12324,75502,2>Kei
+;<12332,79391,26>「なんで叩く。痛いぞ……」
+<12332,79391,26>"Why did you hit me. It hurts..."
+;<12380,74928,4>直哉
+<12380,74928,4>Naoya
+;<12388,79418,38>「いや、先に攻撃してきたのはお前だし」
+<12388,79418,38>"I mean, you're the one who attacked me first"
+<12420,76723,7>ev6000a
+<12444,79457,10>ked_000030
+;<12492,75502,2>圭
+<12492,75502,2>Kei
+;<12500,79468,54>「お、俺の攻撃は愛があるから！　い、痛くないんだぞ！」
+<12500,79468,54>"But my attacks are imbued with love! They don't hurt!"
+;<12548,74928,4>直哉
+<12548,74928,4>Naoya
+;<12556,79523,48>「あはははははは、非力だからだろ。このカマ野郎」
+<12556,79523,48>"Ahahaha that's because you're weak, you transvestite"
+<12588,76976,7>ev6000b
+<12612,79572,10>ked_000031
+;<12660,75502,2>圭
+<12660,75502,2>Kei
+;<12668,79583,98>「うわぁん！　ひどいぞ！　カマとかひどい！　この野郎！　すね毛生えてないからって馬鹿にするなぁ！」
+<12668,79583,98>"Uwaah! That's horrible! Calling me a transvestite! Making me for an idiot just because I don't have leg hair!"
+;<12716,74928,4>直哉
+<12716,74928,4>Naoya
+;<12724,79682,28>「そ、そんな事言ってな……」
+<12724,79682,28>"I...didn't say that..."
+<12812,79711,6>map003
+<12844,76716,6>se3356
+;<12956,74928,4>直哉
+<12956,74928,4>Naoya
+;<12964,79718,10>「わぁ！」
+<12964,79718,10>"Wah!"
+<13020,79729,10>ked_000032
+;<13068,75502,2>圭
+<13068,75502,2>Kei
+;<13076,79740,30>「はぁ、はぁ、はぁ、ふぅ……」
+<13076,79740,30>"Haa..haaa..haa..huu..."
+;<13124,74928,4>直哉
+<13124,74928,4>Naoya
+;<13132,79771,24>「はぁ、はぁ、はぁ……」
+<13132,79771,24>"Haa..haa..haa..."
+<13212,79796,7>sp0008a
+<13252,71558,6>bgm021
+;<13356,74928,4>直哉
+<13356,74928,4>Naoya
+;<13364,79804,8>「……」
+<13364,79804,8>"..."
+;<13420,79813,40>　まだ風にほんのり寒さが残る。四月の昼。
+<13420,79813,40>It was an April afternoon; a faint chill was still left in the wind.
+;<13476,79854,52>　舞い散る桜の下で、俺と圭はごろりと横になっていた。
+<13476,79854,52>Kei and I were laying down under the fluttering cherry blossoms.
+;<13532,79907,14>　空が見えた。
+<13532,79907,14>We could see the sky.
+;<13588,79922,20>　そして桜が見えた。
+<13588,79922,20>And we could see the cherry blossoms.
+<13620,79943,8>kazenari
+;<13676,72300,12>　風が吹く。
+<13676,72300,12>The wind blows.
+;<13732,79952,26>　桜の花が散らされていく。
+<13732,79952,26>Cherry blossom petals are scattered.
+;<13788,79979,34>　視界を花びらが埋め尽くす様に……
+<13788,79979,34>My eyesight is filled with petals...
+;<13844,80014,10>　そして、
+<13844,80014,10>and then...
+;<13900,80025,14>　雲が流れる。
+<13900,80025,14>the clouds flow.
+;<13956,80040,16>　ゆっくりと……
+<13956,80040,16>Softly...
+;<14044,80057,32>　大きな空に雲が流れていく……。
+<14044,80057,32>The clouds flow by in the open sky...
+<14076,80090,7>evb001a
+;<14124,74928,4>直哉
+<14124,74928,4>Naoya
+;<14132,80098,34>「何でもないんだよ……何でも……」
+<14132,80098,34>"It's nothing...nothing"
+<14156,80133,10>ked_000033
+;<14204,75502,2>圭
+<14204,75502,2>Kei
+;<14212,78504,12>「……直哉」
+<14212,78504,12>"...Naoya"
+<14244,80144,7>evb001b
+;<14292,74928,4>直哉
+<14292,74928,4>Naoya
+;<14300,80152,42>「そうなんだ……何でもない事なんだよ……」
+<14300,80152,42>"That's right...it's nothing at all..."
+<14324,80195,10>ked_000034
+;<14372,75502,2>圭
+<14372,75502,2>Kei
+;<14380,79804,8>「……」
+<14380,79804,8>"..."
+;<14436,80206,26>　無言で圭は俺を見つめる。
+<14436,80206,26>Kei watches me silently.
+;<14484,74928,4>直哉
+<14484,74928,4>Naoya
+;<14492,80233,36>「だから、そういうのやめてくれ……」
+<14492,80233,36>"So please, stop that..."
+;<14540,74928,4>直哉
+<14540,74928,4>Naoya
+;<14548,80270,58>「湿っぽいのは得意じゃない。そのぐらい知っているだろ……」
+<14548,80270,58>"I don't know how to deal with people around me being gloomy. You should know at least that much..."
+<14572,80329,10>ked_000035
+;<14620,75502,2>圭
+<14620,75502,2>Kei
+;<14628,80340,52>「……分かってる。分かってるつもりなんだけどさ……」
+<14628,80340,52>"...I know. I tried to keep that in mind but..."
+;<14676,74928,4>直哉
+<14676,74928,4>Naoya
+;<14684,80393,50>「分かってるなら、その不景気な顔はやめてくれ……」
+<14684,80393,50>"If you know, don't make such a recessed face..."
+<14708,80444,10>ked_000036
+;<14756,75502,2>圭
+<14756,75502,2>Kei
+;<14764,80455,40>「不景気な顔って、景気関係ないだろ……」
+<14764,80455,40>"Recessed face? What does economics have to do with this...?"
+;<14812,74928,4>直哉
+<14812,74928,4>Naoya
+;<14820,80496,82>「そうかもな、景気の振れ幅でお前の顔がおもしろおかしくなるわけじゃないもんな……」
+<14820,80496,82>"Hmm, indeed, I don't think your face becomes any more comical in response to economic trends..."
+<14852,80579,7>evb001c
+<14876,80587,10>ked_000037
+;<14924,75502,2>圭
+<14924,75502,2>Kei
+;<14932,80598,66>「って！　その前に、俺の顔はそんなおもしろおかしくなんかないぞ！」
+<14932,80598,66>"Hey! My face isn't comical at all in the first place!"
+<14964,80665,7>evb001d
+;<15012,74928,4>直哉
+<15012,74928,4>Naoya
+;<15020,80673,12>「そうか？」
+<15020,80673,12>"Really?"
+<15044,80686,10>ked_000038
+;<15092,75502,2>圭
+<15092,75502,2>Kei
+;<15100,80697,54>「な　ぜ　不　思　議　そ　う　な　顔　を　す　る　！」
+<15100,80697,54>"Why    are    you    making    such    a    strange    face!"
+;<15148,74928,4>直哉
+<15148,74928,4>Naoya
+;<15156,80752,46>「だ　っ　て　不　思　議　じ　ゃ　な　い　？」
+<15156,80752,46>"Isn't    it    strange    after    all?"
+<15180,80799,10>ked_000039
+;<15228,75502,2>圭
+<15228,75502,2>Kei
+;<15236,80810,24>「全然不思議じゃねぇ！」
+<15236,80810,24>"Nothing is strange!!"
+;<15284,74928,4>直哉
+<15284,74928,4>Naoya
+;<15292,80835,60>「なら、なぜお前はそんな顔がおもしろおかしく変化するのだ？」
+<15292,80835,60>"Then why do you contort your face in such a comical way?"
+<15316,80896,10>ked_000040
+;<15364,75502,2>圭
+<15364,75502,2>Kei
+;<15372,80907,50>「俺の顔はおもしろおかしくなんか変化なぞしない！」
+<15372,80907,50>"My face isn't contorting in a comical way at all!"
+;<15420,74928,4>直哉
+<15420,74928,4>Naoya
+;<15428,80673,12>「そうか？」
+<15428,80673,12>"Really?"
+<15452,80958,10>ked_000041
+;<15500,75502,2>圭
+<15500,75502,2>Kei
+;<15508,80969,50>「な　ぜ　会　話　を　ル　ー　プ　さ　せ　る　！」
+<15508,80969,50>"Why    are    you    making    our    conversation    loop!?"
+;<15556,74928,4>直哉
+<15556,74928,4>Naoya
+;<15564,81020,50>「だ　っ　て　不　思　議　な　の　だ　も　の　？」
+<15564,81020,50>"It's    strange    after    all"
+<15588,81071,10>ked_000042
+;<15636,75502,2>圭
+<15636,75502,2>Kei
+;<15644,81082,80>「不思議じゃねぇ！　もうこの会話終わり！　そんな事言う直哉はダメなんだからな！」
+<15644,81082,80>"It's not strange! This conversation is over! And you're a terrible person for saying these things!"
+<15676,81163,7>evb001e
+;<15732,81171,34>　圭は不機嫌そうにそっぽを向いた。
+<15732,81171,34>Kei looks the other way, as if upset.
+;<15788,81206,44>　俺は苦笑いしてから、そのまま空を見上げた。
+<15788,81206,44>I laugh bitterly, and just look up at the sky.
+;<15844,81251,14>　春の空を……
+<15844,81251,14>The spring sky...
+;<15900,81266,26>　桜に包まれていた春の空。
+<15900,81266,26>The spring sky enveloped in cherry blossoms.
+;<15948,74928,4>直哉
+<15948,74928,4>Naoya
+;<15956,81293,30>「それにしてもあれだな……圭」
+<15956,81293,30>"But still, Kei..."
+<15988,81324,7>evb001f
+<16012,81332,10>ked_000043
+;<16060,75502,2>圭
+<16060,75502,2>Kei
+;<16068,81343,12>「なんだ？」
+<16068,81343,12>"What?"
+;<16116,74928,4>直哉
+<16116,74928,4>Naoya
+;<16124,81356,18>「桜が綺麗だ……」
+<16124,81356,18>"The cherry blossoms are beautiful..."
+<16148,81375,10>ked_000044
+;<16196,75502,2>圭
+<16196,75502,2>Kei
+;<16204,81386,8>「桜？」
+<16204,81386,8>"Cherry blossoms?"
+;<16252,74928,4>直哉
+<16252,74928,4>Naoya
+;<16260,81395,28>「ああ、そうだ……桜だ……」
+<16260,81395,28>"Yeah...the cherry blossoms..."
+;<16316,81424,94>　突き抜ける様な青の中を、咲き散る;<r うすくれない>薄紅</r>を、俺は見つめながら、ぽつりと呟く。
+<16316,81424,94>I murmured while watching the pale crimson scatter as if penetrating the blue.
+;<16372,81519,32>　その視線の先を圭も追いかける。
+<16372,81519,32>Kei follows my eyes as well.
+;<16428,81552,42>　桜の花びらが風に舞って空高く吹き荒れる。
+<16428,81552,42>The cherry blossom petals dance in the wind and are blown high into the sky.
+<16452,81595,10>ked_000045
+;<16500,75502,2>圭
+<16500,75502,2>Kei
+;<16508,81606,40>「ああ、今年の桜は最高にきれいだな……」
+<16508,81606,40>"Ah, this year's cherry blossoms are exceptionally beautiful..."
+;<16556,74928,4>直哉
+<16556,74928,4>Naoya
+;<16564,81647,28>「今年の桜は、最高に……か」
+<16564,81647,28>"This year's cherry blossoms...exceptional..."
+;<16620,81676,34>　毎年同じ様に咲く様に思われた桜。
+<16620,81676,34>Cherry blossoms are thought to bloom in the same way every year.
+;<16676,81711,62>　たしかに圭の言うとおり、今年の桜は俺にも最高に美しく思えた。
+<16676,81711,62>But indeed, as Kei says, this year's cherry blossoms looked exceptionally beautiful.
+;<16732,81774,30>　圭にも、美しく見えるこの桜。
+<16732,81774,30>These cherry blossoms look beautiful to Kei as well.
+;<16788,81805,70>　だったら、圭にも木箱に詰められた親父の姿は醜くうつったのであろうか？
+<16788,81805,70>If that's the case, then I wonder if my father's figure, stuffed in that coffin, looked hideous to him too.
+;<16844,81876,16>　それとも――。
+<16844,81876,16>Or...
+;<16892,74928,4>直哉
+<16892,74928,4>Naoya
+;<16900,81893,28>「芸術は自然を模倣する……」
+<16900,81893,28>"Art imitates nature..."
+;<16948,74928,4>直哉
+<16948,74928,4>Naoya
+;<16956,81922,16>「あるいは……」
+<16956,81922,16>"But it could be..."
+;<17004,74928,4>直哉
+<17004,74928,4>Naoya
+;<17012,81939,28>「自然は芸術を模倣する……」
+<17012,81939,28>"That nature imitates art..."
+<17036,81968,10>ked_000046
+;<17084,75502,2>圭
+<17084,75502,2>Kei
+;<17092,81979,40>「何それ？　まったく逆の意味じゃない？」
+<17092,81979,40>"Huh? Don't those mean opposite things?"
+;<17140,74928,4>直哉
+<17140,74928,4>Naoya
+;<17148,82020,16>「ああ、そうだ」
+<17148,82020,16>"Ah, you're right"
+<17172,82037,10>ked_000047
+;<17220,75502,2>圭
+<17220,75502,2>Kei
+;<17228,82048,20>「どういう事なの？」
+<17228,82048,20>"What are you talking about?"
+;<17276,74928,4>直哉
+<17276,74928,4>Naoya
+;<17284,82069,36>「さぁな。まぁ、どうでも良い事だよ」
+<17284,82069,36>"I dunno. But it doesn't matter anyway"
+<17412,73127,7>sp0005a
+<17444,73135,7>sp0005b
+<17476,73143,7>sp0005c
+;<17580,82106,28>　『横たわる櫻』を描いた男。
+<17580,82106,28>The man who drew "Lying Cherry Blossom".
+;<17636,82135,50>　俺の父親は「世界的に名の知れた芸術家」であった。
+<17636,82135,50>My father was known as a "world-renowned artist".
+;<17692,82186,29>　世界的に名の知れた芸術家。\n
+<17692,82186,29>Could a "world-renowned artist" 
+;<17748,82216,48>今の時代、こんな胡散臭い響きが他にあるだろうか？
+<17748,82216,48>have such a suspicious aura in this age?
+;<17804,82265,14>　あり得ない。
+<17804,82265,14>Impossible.
+;<17860,82280,50>　だから彼は、胡散臭い芸術家としても知られていた。
+<17860,82280,50>That's why people also knew him as a "suspicious artist".
+;<17916,82331,42>　起業家、虚業家、ペテン師、そして芸術家。
+<17916,82331,42>Entrepreneur, snake oil salesman, charlatan, and also artist.
+;<17972,82374,42>　草薙健一郎に対する呼び名は複数に及んだ。
+<17972,82374,42>Ken'ichiro Kusanagi was known by many names.
+;<18028,82417,33>　彼は世界的有名人でもあったが、\n
+<18028,82417,33>While he was indeed known worldwide,\n
+;<18084,82451,26>胡散臭さの象徴でもあった。
+<18084,82451,26>he also left a suspicious impression.
+;<18140,82478,14>　だがしかし、
+<18140,82478,14>That being said,
+;<18196,82493,10>　誰もが、
+<18196,82493,10>anyone, however,
+;<18252,82504,32>　あの絵を前にした時だけ違った。
+<18252,82504,32>was different when in front of that painting.
+;<18308,82537,44>　あの絵を前にしたあらゆる人間がこう思った。
+<18308,82537,44>Any human sat in front of that painting would think:
+;<18364,82582,26>「この美しさは本物である」
+<18364,82582,26>"This beauty is real"
+;<18420,82609,24>「この感動は本物である」
+<18420,82609,24>or...
+;<18476,82634,10>　と……。
+<18476,82634,10>"These emotions are real"
+;<18532,82645,20>　絵画『横たわる櫻』
+<18532,82645,20>The painting: "Lying Cherry Blossom"
+;<18588,82666,58>　彼を悪く言う者は多いが、あの絵を悪く言う者は多くはない。
+<18588,82666,58>Many thought badly of him, but few thought badly of that painting.
+;<18644,82725,45>　『横たわる櫻』とはそういう作品であったし、\n
+<18644,82725,45>After all, "Lying Cherry Blossom" was a work of art,\n
+;<18700,82771,44>草薙健一郎という男はそういう芸術家であった。
+<18700,82771,44>and the man known as Ken'ichiro Kusanagi was an artist.
+<18828,72390,7>sp0004a
+;<18932,82816,54>　そんな親父との関係は、彼の死により決定的に絶たれた。
+<18932,82816,54>My relationship with such a father had been cut off long before his death.
+;<18988,82871,78>　彼との最後の繋がりは、振り込まれた一生生活に困らない額の金が記入された通帳。
+<18988,82871,78>My last connection with him was a bank account containing enough money for a lifetime.
+;<19044,82950,20>　彼が死ぬ数ヶ月前。
+<19044,82950,20>A few months before he had died...
+;<19100,82971,28>　俺はその通帳を見せられた。
+<19100,82971,28>I was shown that account,
+;<19156,83000,16>　その時思った。
+<19156,83000,16>and then I thought:
+;<19212,83017,22>　ああ……そうか……。
+<19212,83017,22>Ah, I see.
+;<19268,83040,28>　これで一生遊んで暮らせる。
+<19268,83040,28>I can just enjoy the rest of my life.
+;<19324,83069,26>　あの男は金持ちだもんな。
+<19324,83069,26>That man is rich after all.
+;<19380,83096,48>　だから、遺産相続したら今度は俺が金持ちになる。
+<19380,83096,48>Therefore I'll inherit his money, and then I'll be rich.
+;<19436,83145,26>　誰もが憧れる夢の生活だ。
+<19436,83145,26>The dream life after which we all yearn.
+;<19492,83172,56>　学校を卒業した後も、就活とかでヒイヒイ言わなくて良い。
+<19492,83172,56>Even after graduating high school, I won't have to tire myself out with job searching.
+;<19548,83229,13>　世間では、\n
+<19548,83229,13>Many people say:\n
+;<19604,83243,25>就職氷河時代が日常です！\n
+<19604,83243,25>We're in an employment ice age!\n
+;<19660,83269,22>面接逝ったらジエンド！
+<19660,83269,22>If you go to a job interview it's game over!
+;<19716,83292,44>　と言われるぐらいに、就職が出来ないという。
+<19716,83292,44>It's so hard to find a job that I'm told these things.
+;<19772,83337,52>　社会に出てもつらいが、出させてもくれないのが実情。
+<19772,83337,52>Being a productive member of society is rough, but as it turns out I don't have to be productive. 
+;<19828,83390,46>　そんな世の中にあって俺は働かなくて良いのだ。
+<19828,83390,46>I don't have to work in such a world.
+;<19884,83437,26>　労働から解放されたのだ。
+<19884,83437,26>I have been freed from my labor.
+;<19940,83464,28>　これは勝ち組というやつだ。
+<19940,83464,28>This is what it means to be on the winning team.
+;<19996,83493,26>　格好良く言うと高等遊民！
+<19996,83493,26>In other words, a man of pleasure!
+;<20052,83520,22>　まさに毎日が日曜日。
+<20052,83520,22>Like every day is Sunday.
+;<20108,83543,18>　素晴らしき日々。
+<20108,83543,18>Wonderful Everyday.
+;<20164,83562,18>　ハロー　セカイ。
+<20164,83562,18>Hello World.
+;<20220,83581,18>　わーい。わーい。
+<20220,83581,18>Hurrah! Hurray!
+;<20276,83600,14>　そう思った。
+<20276,83600,14>That's how I thought.
+;<20332,83615,64>　たしかに;<r ・>あ</r><r ・>の</r><r ・>時</r>はそう思った……。
+<20332,83615,64>Indeed, I thought those things "back then"...
+;<20388,83680,46>　だけど、今ではそういう感情も起こらなかった。
+<20388,83680,46>But none of those emotions rise up now.
+;<20444,83727,42>　すべての風景が、俺には平べったく見える。
+<20444,83727,42>All landscapes just look flat to me.
+;<20500,83770,18>　フラットに……。
+<20500,83770,18>Flat...
+<20580,83789,8>evb001_n
+;<20676,74928,4>直哉
+<20676,74928,4>Naoya
+;<20684,83798,18>「何でだろう……」
+<20684,83798,18>"I wonder why..."
+;<20732,74928,4>直哉
+<20732,74928,4>Naoya
+;<20740,83817,38>「何でこんなに平べったいのだろう……」
+<20740,83817,38>"I wonder, why does it look so flat...?"
+<20764,83856,10>ked_000048
+;<20812,75502,2>圭
+<20812,75502,2>Kei
+;<20820,75087,12>「直哉……」
+<20820,75087,12>"Naoya..."
+<20852,80090,7>evb001a
+;<20908,83867,48>　そんな俺の姿を見て、圭が心配そうにのぞき込む。
+<20908,83867,48>Seeing me in this state, Kei worriedly looks over.
+;<20964,83916,40>　俺は苦笑して、心配ない事を圭に伝える。
+<20964,83916,40>I laugh bitterly and tell Kei not to worry.
+;<21020,83957,28>　俺の感情が平べったい理由。
+<21020,83957,28>The reason my emotions are flat.
+;<21076,83986,26>　すべてが遠く感じる理由。
+<21076,83986,26>The reason why everything feels far.
+;<21132,84013,21>　たぶん、それは……\n
+<21132,84013,21>It's probably...\n
+;<21188,84035,18>あれが原因だろう。
+<21188,84035,18>because of what happened.
+;<21244,84054,24>　俺にはそう思えた……。
+<21244,84054,24>Or so it seemed to me...
+;<21460,84079,46>　あれは、俺が最後に通帳を見せられた時の事だ。
+<21460,84079,46>That was the last time that I was shown the account.
+;<21516,84126,40>　遺産管財人とやらの前で俺はこう言った。
+<21516,84126,40>I said this in front of some guy who called himself "the executor of the estate":
+<21676,84167,7>ev7001c
+<21716,84175,6>bgm027
+;<21772,74928,4>直哉
+<21772,74928,4>Naoya
+;<21780,84182,34>「俺はこの金は受け取れません……」
+<21780,84182,34>"I can't accept this money"
+;<21828,74928,4>直哉
+<21828,74928,4>Naoya
+;<21836,84217,68>「この金を受け取れるほど、草薙健一郎氏と俺には関係がありません……」
+<21836,84217,68>"I don't have a relationship with Ken'ichiro Kusanagi which would warrant me taking this money"
+;<21884,84286,8>関係者Ａ
+<21884,84286,8>Concerned Party A
+;<21892,84295,20>「関係ないって……」
+<21892,84295,20>"No relationship...?"
+;<21940,84316,8>関係者Ｂ
+<21940,84316,8>Concerned Party B
+;<21948,84325,62>「直哉くんと草薙氏はたしかに親子じゃないか…それをまた何故？」
+<21948,84325,62>"Are you not Mr. Kusanagi's son? Why...?"
+;<22004,84388,48>　その場にいる全員が驚いた顔で俺を見つめていた。
+<22004,84388,48>Everyone stared at me with a shocked expression.
+;<22060,84437,10>　当然だ。
+<22060,84437,10>It's obvious.
+;<22116,84448,88>　唯一の血縁である俺が、世界的な芸術家の遺産のすべてを受け取らないと言ったのだから……。
+<22116,84448,88>I, the sole blood relative of a world-renowned artist, declared that I could not accept this inheritance.
+;<22172,84537,58>　ただ一人、目の前の男だけが鋭い目つきで俺を見つめていた。
+<22172,84537,58>One man, only the man in front of me, stared at me with a sharp expression.
+<22196,84596,10>frd_000001
+;<22244,74896,6>？？？
+<22244,74896,6>???
+;<22252,84607,10>「関係？」
+<22252,84607,10>"No relationship?"
+;<22308,84618,42>　男は草薙健一郎の管財人だと名乗っていた。
+<22308,84618,42>That man claimed to be the executor of Ken'ichiro Kusanagi's estate.
+;<22364,84661,48>　もちろん俺はこの男とまったく面識が無い設定だ。
+<22364,84661,48>Of course, I had never met him before.
+;<22420,84710,58>　実際、健一郎とどんな関係なのかすら良く理解してなかった。
+<22420,84710,58>And actually, I didn't even really understand his connection with Ken'ichiro.
+<22444,84769,10>frd_000002
+;<22492,84780,6>管財人
+<22492,84780,6>Executor
+;<22500,84787,34>「関係ないとはどういう事ですか？」
+<22500,84787,34>"What do you mean by 'no relationship'?"
+;<22548,74928,4>直哉
+<22548,74928,4>Naoya
+;<22556,84822,58>「草薙健一郎氏と俺は……、赤の他人だと言ってるんです……」
+<22556,84822,58>"I'm saying that...Ken'ichiro Kusanagi and I are complete strangers"
+<22580,84881,10>frd_000003
+;<22628,84780,6>管財人
+<22628,84780,6>Executor
+;<22636,84892,14>「赤の他人？」
+<22636,84892,14>"Complete strangers?"
+;<22684,74928,4>直哉
+<22684,74928,4>Naoya
+;<22692,84907,40>「ああ、だから俺はこの金を受け取れない」
+<22692,84907,40>"Yeah, that's why I can't accept this money"
+;<22748,84948,22>　その場がざわついた。
+<22748,84948,22>People started whispering.
+;<22804,84971,52>　そこにいるすべての人間が動揺しているのが分かった。
+<22804,84971,52>I understood that everyone there was trembling.
+;<22860,85024,32>　俺はそれを見て、うつむき……。
+<22860,85024,32>I saw that...and stared at the ground.
+;<22916,85057,22>　そしてほくそ笑んだ。
+<22916,85057,22>And then I laughed to myself.
+;<22972,85080,18>　そうだよな……。
+<22972,85080,18>That's right...
+;<23028,85099,30>　十数億の遺産を受け取らない。
+<23028,85099,30>I won't accept this multi-million dollar inheritance.
+;<23084,85130,42>　「俺と父とはそんな関係ではないから……」
+<23084,85130,42>"Since I don't have any sort of relationship with my father"
+;<23140,85173,32>　そんな理由で……受け取らない。
+<23140,85173,32>For that reason...I won't accept it.
+;<23196,85206,19>　大芸術家の息子。\n
+<23196,85206,19>The son of a famous artist.\n
+;<23252,85226,10>草薙直哉。
+<23252,85226,10>Naoya Kusanagi.
+;<23308,85237,12>　つまり俺。
+<23308,85237,12>In other words, me.
+;<23364,85250,16>　格好イイ……。
+<23364,85250,16>I'm so badass...
+;<23420,85267,24>　今の俺は格好イイ……。
+<23420,85267,24>I'm so badass right now...
+;<23476,85292,36>　誰だってこんな自分に憧れるだろう。
+<23476,85292,36>Anyone would want to be me.
+;<23532,85329,24>「金で汚れぬ高潔な精神」
+<23532,85329,24>"A spirit of integrity, untarnished by money"
+;<23588,85354,24>「幸せは金では買えない」
+<23588,85354,24>"Money can't buy happiness"
+;<23644,85379,41>　彼らにそう宣言するかのごとき俺の姿は、\n
+<23644,85379,41>If this were some sort of story,\n
+;<23700,85421,30>物語で言えばクライマックスだ。
+<23700,85421,30>my announcement would have been the climax.
+;<23756,85452,44>　俺の精神は少し高揚していたのかもしれない。
+<23756,85452,44>Maybe I got myself too worked up.
+;<23812,85497,32>　言い訳程度に言わせてもらおう。
+<23812,85497,32>Please allow me to make an excuse.
+;<23868,85530,22>　ほんの出来心だった。
+<23868,85530,22>You could say it was a minor whim.
+;<23924,85553,35>　やってみたら格好いいかなぁ……。\n
+<23924,85553,35>"If I did it, it would be so cool"\n
+;<23980,85589,36>ぐらいのノリであったのかもしれない。
+<23980,85589,36>I was feeling something to that effect.
+;<24036,85626,88>　それに、そこは日本人の美しさというか、最初はとりあえず断っておく的な感じもあるだろう。
+<24036,85626,88>More importantly, and perhaps this is the beauty of the Japanese people, but naturally I think one should refuse at first.
+;<24092,85715,26>　だって十数億の遺産だし。
+<24092,85715,26>It is, after all, a multi-million dollar inheritance.
+;<24148,85742,34>　あんまり仲良くない父親の金だし。
+<24148,85742,34>And it is, after all, money from a father I didn't know well.
+;<24204,85777,40>　ここにいる人達も知らない人ばかりだし、
+<24204,85777,40>and I don't, after all, know who these people are.
+;<24260,85818,34>　とりあえず断っておくのも有りだ。
+<24260,85818,34>For now I think I can refuse.
+;<24316,85853,38>　有りか無しかで言ったら、有りだろう。
+<24316,85853,38>Between "can refuse" and "can't refuse" I think this leans towards "can refuse".
+;<24372,85892,28>（なにを仰いますかかカッ！）
+<24372,85892,28>(Sir what are you saying!)
+;<24428,85921,42>（いやいや、そんな事言わず、どうしても！）
+<24428,85921,42>(No no sir, you must!)
+;<24484,85964,38>（これはあなた様がお受け取り下さい！）
+<24484,85964,38>(Please sir, take it!)
+;<24540,86003,76>（世界的な芸術家である草薙健一郎が残した遺産には、多くの芸術作品もあります）
+<24540,86003,76>(The inheritance left behind by world-renowned artist Ken'ichiro Kusanagi also contains many artistic works)
+;<24596,86080,58>（これは唯一の血族である直哉様が受け取るべきものなのです）
+<24596,86080,58>(Mr. Naoya, you should take them, as the sole blood relative)
+;<24652,86139,24>（うーん、そうですか？）
+<24652,86139,24>(Hmmm you think so?)
+;<24708,86164,42>（そうかなぁ……。そうかもしれませんなぁ）
+<24708,86164,42>(Well...now that you mention it...)
+;<24764,86207,48>（そこまで言われたら、まぁ、仕方ないですかねぇ）
+<24764,86207,48>(If you really insist, I suppose I must)
+;<24820,86256,52>（たしかに父とは血もつながっていたわけですしぃ……）
+<24820,86256,52>(I suppose we are connected by blood...)
+;<24876,86309,58>（皆様がそこまで言うのでしたらお受け取りしましょうか……）
+<24876,86309,58>(If everyone's going to be that way I guess I have to take it...)
+;<24932,86368,10>　これだ！
+<24932,86368,10>Just like this!
+;<24988,86379,44>　これがごく一般的な日本人の作法ではないか？
+<24988,86379,44>Is this not the most normal way for the Japanese people?
+;<25044,86424,16>　一度目は断る。
+<25044,86424,16>First you refuse.
+;<25100,86441,32>　それでも相手は引き下がらない。
+<25100,86441,32>But the others don't back off.
+;<25156,86474,36>　是非、受け取ってくれと言い続ける。
+<25156,86474,36>They insist, please take it.
+;<25212,86511,29>　頃合いの良いタイミングで、\n
+<25212,86511,29>And then at just the right moment...\n
+;<25268,86541,42>“それでは”という事でありがたく頂戴する。
+<25268,86541,42>You say "in that case..." and receive it with gratitude.
+;<25324,86584,50>　それが日本的な美意識というものではないだろうか？
+<25324,86584,50>Is this not the beautiful Japanese mindset?
+;<25380,86635,16>　にも関わらず。
+<25380,86635,16>But then...
+<25444,86652,10>frd_000004
+;<25492,84780,6>管財人
+<25492,84780,6>Executor
+;<25500,86663,16>「分かりました」
+<25500,86663,16>"Understood"
+<25540,86680,6>bgm016
+;<25604,86687,42>　管財人は青い目をキラっキラさせて頷いた。
+<25604,86687,42>The executor nodded with a twinkle in his blue eyes.
+;<25660,86730,20>　ヤツは外人だった。
+<25660,86730,20>He was a foreigner.
+;<25716,86751,30>　名はマーティ・フリッドマン。
+<25716,86751,30>His name was Marty Friedman.
+;<25772,86782,51>　毛唐なんぞに日本の美しき作法など分からなかった。\n
+<25772,86782,51>These barbarians don't know the beautiful rituals of Japan!\n
+;<25828,86834,18>教えたとしてもだ！
+<25828,86834,18>I tried to teach him!
+;<25884,86853,19>　この白ブタ野郎。\n
+<25884,86853,19>You fucking white pig!\n
+;<25940,86873,40>フリッドマンは痩せていて格好いいが……。
+<25940,86873,40>On the other hand Friedman is really thin and seems so cool...
+;<25996,86914,74>　ヤツは俺の一言を聞くやいなや、てきぱきと遺産放棄の書類を作成してくれた。
+<25996,86914,74>He heard me say that one sentence and immediately started drawing up papers to disclaim the inheritance.
+;<26052,86989,12>　そして……
+<26052,86989,12>And then...
+<26076,87002,10>frd_000005
+;<26124,87013,12>フリッドマン
+<26124,87013,12>Friedman
+;<26132,87026,28>「さぁ、サインを、草薙直哉」
+<26132,87026,28>"Your signature please, Naoya Kusanagi"
+<26164,87055,7>ev7001b
+;<26212,74928,4>直哉
+<26212,74928,4>Naoya
+;<26220,87063,6>「っ」
+<26220,87063,6>"Guh"
+;<26276,87070,40>　その場にいる人間すべてが注目している。
+<26276,87070,40>I draw the attention of everyone in the room.
+;<26332,87111,36>　俺の一挙一動を見落とさない様に……
+<26332,87111,36>Everyone is focused on even my subtle movements.
+;<26388,87148,46>　俺は今までにないほどの緊張感を味わっていた。
+<26388,87148,46>I savored a nervousness that I had never felt in my life before.
+;<26444,87195,16>　なんだこれは？
+<26444,87195,16>What's going on?
+;<26500,87212,14>　なんなんだ？
+<26500,87212,14>What the hell is this?
+;<26556,87227,15>　俺は察した。\n
+<26556,87227,15>I realized.\n
+;<26612,87243,24>すべてを察したのだった。
+<26612,87243,24>I realized everything.
+;<26668,87268,36>「;<r は>嵌</r>　め　ら　れ　た　！」
+<26668,87268,36>"I've    been    tricked!"
+;<26724,87305,20>　心の中で叫んだ俺。
+<26724,87305,20>I screamed internally.
+;<26780,87326,10>　時遅し、
+<26780,87326,10>Time slows.
+;<26836,87337,14>　いとをかし、
+<26836,87337,14>An interesting turn of events.
+;<26892,87352,16>　おかしくねぇ！
+<26892,87352,16>What is interesting about this!?
+;<26948,87369,28>　<r おもむき>趣</r>もねぇ！
+<26948,87369,28>What turn of events!?
+;<27004,87398,48>　俺から笑みは消え、代わりに脂汗がどっと流れた。
+<27004,87398,48>My smile disappears, and instead I run a cold sweat.
+;<27060,87447,18>「お　か　し　い」
+<27060,87447,18>"This    is    weird"
+;<27116,87466,20>「絶対におかしいぃ」
+<27116,87466,20>"Something is definitely weird here"
+;<27172,87487,22>　段取り的におかしい。
+<27172,87487,22>Something is wrong with the procedure here.
+;<27228,87510,30>　こんなシナリオでは無かった！
+<27228,87510,30>It wasn't supposed to turn out like this!
+;<27284,87541,50>　最低でも三回は確認するシナリオでは無かったのか？
+<27284,87541,50>For something like this don't you need to check at least three times!?
+;<27340,87592,34>　それが正しい進行であっただろう！
+<27340,87592,34>Clearly that's the way you're supposed to do it!
+;<27396,87627,16>　フリッドマン！
+<27396,87627,16>Friedman!!!
+<27428,87644,7>ev7001a
+;<27476,74928,4>直哉
+<27476,74928,4>Naoya
+;<27484,87652,12>「くっ……」
+<27484,87652,12>"Ugh"
+;<27540,87665,54>　いろいろ考えたが、あまりに格好良く断言しすぎた手前。
+<27540,87665,54>I thought about it a bit, and maybe my declaration was too badass.
+;<27596,87720,16>「あれ嘘です！」
+<27596,87720,16>"Actually that was a lie!"
+;<27652,87737,14>「今のなし！」
+<27652,87737,14>"I take it back!"
+;<27708,87752,14>「金ほしい！」
+<27708,87752,14>"I want the money!"
+;<27764,87767,44>「金もらえるならここで全裸にでもなります！」
+<27764,87767,44>"If I can get the money I'll even get naked right now!"
+;<27820,87812,34>「むしろ全裸にならせてください！」
+<27820,87812,34>"Actually, please let me strip for you!"
+;<27876,87847,27>　とか言う事も出来ずに……\n
+<27876,87847,27>I was unable to say any of that...\n
+;<27932,87875,8>俺は……
+<27932,87875,8>And then I...
+;<27988,87884,14>　この俺は……
+<27988,87884,14>I...
+<28020,84167,7>ev7001c
+;<28068,74928,4>直哉
+<28068,74928,4>Naoya
+;<28076,87899,50>「これで、草薙健一郎と俺は関係ありませんから……」
+<28076,87899,50>"With this, I no longer have anything to do with Ken'ichiro Kusanagi"
+;<28124,74928,4>直哉
+<28124,74928,4>Naoya
+;<28132,87950,38>「以後、俺と関わらないでください……」
+<28132,87950,38>"Please do not contact me again"
+<28328,87989,5>Black
+;<28544,87995,38>　と一言残して、その部屋から出てきた。
+<28544,87995,38>I said those few words, and left the room.
+;<28600,88034,20>　あの日から俺は……
+<28600,88034,20>Ever since that day I...
+;<28656,88055,40>　草薙健一郎との関係をすべて断ち切った。
+<28656,88055,40>Cut off all relations with Ken'ichiro Kusanagi.
+;<28712,88096,20>　だからだろうか……
+<28712,88096,20>Maybe that's why...
+;<28768,88117,50>　俺の心がこんなに平べったくなってしまったのは……
+<28768,88117,50>Maybe that's why everything has become so flat to me...
+;<28824,88168,46>　すべての風景が平べったくなってしまった……。
+<28824,88168,46>Why all landscapes have become flat...
+<28904,88215,9>evb001_n1
+<28944,71558,6>bgm021
+<28976,88225,10>ked_000049
+;<29024,75502,2>圭
+<29024,75502,2>Kei
+;<29032,88236,28>「って、直哉、Naoyaってば！」
+<29032,88236,28>"Hey, Naoya...Naoya!!"
+<29056,88265,10>ked_000050
+;<29104,75502,2>圭
+<29104,75502,2>Kei
+;<29112,88276,32>「ど、どうしたんだよいきなり！」
+<29112,88276,32>"What's gotten into you all of the sudden!"
+;<29160,74928,4>直哉
+<29160,74928,4>Naoya
+;<29168,88309,48>「あ、ああ、すまん。色々な事を思い出してた……」
+<29168,88309,48>"Ah...Ah, sorry! I just got lost in my memories..."
+<29192,88358,10>ked_000051
+;<29240,75502,2>圭
+<29240,75502,2>Kei
+;<29248,88369,70>「な、なんかたくさん流してたぞ……やっぱりお父さんの死が悲しいんだな」
+<29248,88369,70>"You...you must really be sad about your father's death. It was showing on your face"
+;<29296,74928,4>直哉
+<29296,74928,4>Naoya
+;<29304,88440,22>「涙？　流れてたか？」
+<29304,88440,22>"My face? I was crying?"
+<29328,88463,10>ked_000052
+;<29376,75502,2>圭
+<29376,75502,2>Kei
+;<29384,88474,26>「いや鼻血だったけど……」
+<29384,88474,26>"Actually it was a nosebleed..."
+<29416,88501,7>evb001g
+;<29464,74928,4>直哉
+<29464,74928,4>Naoya
+;<29472,88509,14>「そうか……」
+<29472,88509,14>"Oh..."
+;<29520,74928,4>直哉
+<29520,74928,4>Naoya
+;<29528,88524,64>「心はこんなに平べったいのに……身体は血を流してしまうんだなぁ」
+<29528,88524,64>"My body is still pumping blood, even with a flat heart"
+;<29576,74928,4>直哉
+<29576,74928,4>Naoya
+;<29584,88589,56>「そうだな……心より身体の方が正直なのかもしれない……」
+<29584,88589,56>"It's true...maybe the body can be more honest than the heart..."
+;<29640,88646,66>　心がいくら平べったくとも……身体は正直にあの時の事を覚えている。
+<29640,88646,66>No matter how flat the heart is, the body still faithfully remembers.
+;<29696,88713,52>（やっぱり全裸土下座してでも金をもらうべきだった！）
+<29696,88713,52>(I really should have stripped naked and gotten on all fours if it would get me the money!)
+;<29752,88766,42>　そう俺の身体は血を流して叫んでいるのだ。
+<29752,88766,42>My body is screaming that just by pumping blood.
+;<29800,74928,4>直哉
+<29800,74928,4>Naoya
+;<29808,88809,42>「だが、男には、そう出来ない時だってある」
+<29808,88809,42>"But there are times when men are unable to do what they should"
+;<29856,74928,4>直哉
+<29856,74928,4>Naoya
+;<29864,88852,40>「耐えなきゃいけない時もあるんだよ……」
+<29864,88852,40>"There are times when we must endure"
+<29888,88893,10>ked_000053
+;<29936,75502,2>圭
+<29936,75502,2>Kei
+;<29944,88904,80>「な、直哉……なんか少し格好いい……。お、男は涙じゃなくて血を流せって事だな！」
+<29944,88904,80>"N-Naoya...you do seem a little badass...M-men don't shed tears, they shed blood after all!"
+;<29992,74928,4>直哉
+<29992,74928,4>Naoya
+;<30000,88985,12>「……ふっ」
+<30000,88985,12>"...Hm"
+<30064,88998,10>aid_000001
+;<30112,74896,6>？？？
+<30112,74896,6>???
+;<30120,89009,44>「お前ら……その漫才をいつまで続ける気だ？」
+<30120,89009,44>"How long are you two planning on continuing this gag?"
+<30152,89054,9>ev5000a_n
+<30192,89064,6>bgm010
+;<30248,74928,4>直哉
+<30248,74928,4>Naoya
+;<30256,89071,12>「あ、藍？」
+<30256,89071,12>"A...Ai？"
+<30280,89084,10>ked_000054
+;<30328,75502,2>圭
+<30328,75502,2>Kei
+;<30336,89095,32>「姉貴、まだ帰ってなかったのか」
+<30336,89095,32>"Sis, you still haven't left?"
+<30368,89128,7>ev5000a
+<30392,89136,10>aid_000002
+;<30440,89147,2>藍
+<30440,89147,2>Ai
+;<30448,89150,60>「外じゃ夏目先生だと言ってるだろ。まったく記憶力がない弟だ」
+<30448,89150,60>"You should be referring to me as Ms. Natsume when outside. Jeez you have a bad memory."
+<30480,89211,7>ev5000e
+<30504,89219,10>aid_000003
+;<30552,89147,2>藍
+<30552,89147,2>Ai
+;<30560,89230,44>「それはそうと、草薙……今回は大変だったな」
+<30560,89230,44>"And...Kusanagi...it must have been really rough on you"
+;<30616,89275,88>　圭の傍らに現れたその女性は、真っ黒な美しい髪を揺らしながら俺に向かって軽く頭を垂れた。
+<30616,89275,88>The woman with beautiful, flowing black hair who appeared to the side of Kei turned to me and tilted her head slightly downward.
+;<30664,74928,4>直哉
+<30664,74928,4>Naoya
+;<30672,89364,60>「いや……こっちこそいろいろと藍には世話になってしまったな」
+<30672,89364,60>"Not really...but thank you having been there for me Ai"
+<30696,89425,10>aid_000004
+;<30744,89147,2>藍
+<30744,89147,2>Ai
+;<30752,89436,44>「あ、いや葬式の件じゃなくて遺産放棄の件だ」
+<30752,89436,44>"Ah, I'm not talking about the funeral, I'm talking about when you disclaimed the inheritance"
+<30776,89481,12>ked_000055_n
+;<30824,75502,2>圭
+<30824,75502,2>Kei
+;<30832,89494,12>「何それ？」
+<30832,89494,12>"When you what?"
+;<30880,74928,4>直哉
+<30880,74928,4>Naoya
+;<30888,79804,8>「……」
+<30888,79804,8>"..."
+;<30944,89507,26>　なんで藍が知ってるんだ？
+<30944,89507,26>How does she know?
+;<31000,89534,42>　一部の人間しか知らない事なハズだが……。
+<31000,89534,42>Only a very limited number of people were supposed to know that...
+<31032,89577,7>ev5000c
+<31056,89585,10>aid_000005
+;<31104,89147,2>藍
+<31104,89147,2>Ai
+;<31112,89596,72>「最初聞いた時は驚いたけど、よくよく考えたらお前らしいなぁ。と思ったよ」
+<31112,89596,72>"When I first heard about it I was surprised! But after I thought for a while, I realized it's something you would do"
+;<31160,74928,4>直哉
+<31160,74928,4>Naoya
+;<31168,89669,36>「お、俺らしいか……そうかもな……」
+<31168,89669,36>"Something I would do...maybe yeah"
+;<31224,89706,18>　俺らしいか……、
+<31224,89706,18>Something I would do...
+;<31280,89725,54>　藍から見ても、俺という人間はそう見えるのだろう……。
+<31280,89725,54>I wonder how I look from Ai's viewpoint...
+;<31336,89780,26>　金に揺らがぬ高潔な精神。
+<31336,89780,26>A spirit of integrity, unwavered by money.
+;<31392,89807,54>　世俗の事などに惑わされる事無く、自分の美意識を貫く。
+<31392,89807,54>Unbothered by worldly thoughts, carrying out my own aesthetic sense to the very end.
+;<31448,89862,48>　俺という人間はやはりそう見えてしまうのだろう。
+<31448,89862,48>I must be something like that to her.
+<31472,89911,10>aid_000006
+;<31520,89147,2>藍
+<31520,89147,2>Ai
+;<31528,89922,106>「お前の事だから、“少しかっこいいなぁ”とか思って言ったのだろう。んで引くに引けない状態になったんだろ？」
+<31528,89922,106>"Since we're talking about you, I'd expect you to turn down the money after thinking something like 'I sure am a badass'. And by that time, things had already progressed too far"
+;<31576,74928,4>直哉
+<31576,74928,4>Naoya
+;<31584,90029,50>「な　に　を　根　拠　に　言　っ　て　る　の　？」
+<31584,90029,50>"On    what    basis    do    you    say    that?"
+;<31632,74928,4>直哉
+<31632,74928,4>Naoya
+;<31640,90080,46>「意　意　意　味　が　わ　か　ら　な　い　わ」
+<31640,90080,46>"I-    I-    I-    I    don't    get    it"
+<31672,89128,7>ev5000a
+<31696,90127,10>aid_000007
+;<31744,89147,2>藍
+<31744,89147,2>Ai
+;<31752,90138,34>「めちゃくちゃ動揺してるだろ……」
+<31752,90138,34>"You're trembling..."
+;<31800,74928,4>直哉
+<31800,74928,4>Naoya
+;<31808,90173,46>「し　し　し　て　い　な　い　わ　よ　動　揺」
+<31808,90173,46>"Oh    my    gosh!    I-    I-    I-    I'm    not    trembling"
+<31832,90220,10>aid_000008
+;<31880,89147,2>藍
+<31880,89147,2>Ai
+;<31888,90231,56>「どうでもいいが、なんでカマ言葉になるんだ……お前……」
+<31888,90231,56>"It's not important, but that 'oh my gosh' sounded a little gay..."
+;<31936,74928,4>直哉
+<31936,74928,4>Naoya
+;<31944,90288,46>「あ、藍が、めちゃくちゃな事を言うからだ……」
+<31944,90288,46>"I- I sound like that because you're saying such weird stuff..."
+<31976,89577,7>ev5000c
+<32000,90335,10>aid_000009
+;<32048,89147,2>藍
+<32048,89147,2>Ai
+;<32056,90346,90>「ふぅ……なにがめちゃくちゃだ。めちゃくちゃはお前だろう。普通ならあんなまねしないぞ……」
+<32056,90346,90>"Hmph...what's weird? The weird one is you. Normally I wouldn't say things like that..."
+<32080,90437,10>aid_000010
+;<32128,89147,2>藍
+<32128,89147,2>Ai
+;<32136,90448,43>「これでもお前の事をずっと見てきた私だぞ。\n
+<32136,90448,43>"We've spent a lot of time together you know.\n
+;<32184,89147,2>藍
+<32184,89147,2>Ai
+;<32192,90492,48>お前が何故あんな事をしたのかだいたい分かる……」
+<32192,90492,48>I have a pretty good idea of why you did something like that."
+<32216,90541,10>aid_000011
+;<32264,89147,2>藍
+<32264,89147,2>Ai
+;<32272,90552,43>「なんであんな馬鹿げたまねをしたのか……。\n
+<32272,90552,43>"Why you did something that dumb...\n
+;<32320,89147,2>藍
+<32320,89147,2>Ai
+;<32328,90596,22>鈍い私でも分かる……」
+<32328,90596,22>even someone as slow as me understands..."
+;<32376,74928,4>直哉
+<32376,74928,4>Naoya
+;<32384,90619,26>「だ、だから、何の話だ？」
+<32384,90619,26>"What are you talking about?"
+<32416,89211,7>ev5000e
+<32440,90646,10>aid_000012
+;<32488,89147,2>藍
+<32488,89147,2>Ai
+;<32496,90657,42>「遺産相続の放棄だよ。今更とぼける気か？」
+<32496,90657,42>"I'm talking about how you disclaimed your inheritance. You're still trying to feign ignorance?"
+;<32544,74928,4>直哉
+<32544,74928,4>Naoya
+;<32552,90700,54>「と、とぼけるも何も、俺には何の事だかさっぱりだ……」
+<32552,90700,54>"Feign ignorance? I- I have no idea what you're talking about..."
+<32576,90755,10>aid_000013
+;<32624,89147,2>藍
+<32624,89147,2>Ai
+;<32632,90766,45>「ふーんそうか……。あくまでもとぼけるのか。\n
+<32632,90766,45>"Hmmmm is that right? You're that intent on feigning ignorance.\n
+;<32680,89147,2>藍
+<32680,89147,2>Ai
+;<32688,90812,64>せっかく、遺産放棄の書類を無効にする方法を教えようと思ったのに」
+<32688,90812,64>That's a shame because I was going to tell you how to invalidate your disclaimer"
+;<32736,74928,4>直哉
+<32736,74928,4>Naoya
+;<32744,90877,84>「え？　まじ？　マジで？　うそ、教えて！　全裸にだってなるし、土下座だってするよ！」
+<32744,90877,84>"Wait. Really? Seriously? No way, tell me! I'll get naked for you! I'll get on all fours for you!"
+<32776,90962,7>ev5000f
+<32800,90970,10>aid_000014
+;<32848,89147,2>藍
+<32848,89147,2>Ai
+;<32856,79804,8>「……」
+<32856,79804,8>"..."
+<32880,90981,10>ked_000056
+;<32928,75502,2>圭
+<32928,75502,2>Kei
+;<32936,79804,8>「……」
+<32936,79804,8>"..."
+;<32984,74928,4>直哉
+<32984,74928,4>Naoya
+;<32992,90992,12>「はっ！？」
+<32992,90992,12>"Huh!?"
+<33024,91005,7>ev5000d
+<33048,91013,10>aid_000015
+;<33096,89147,2>藍
+<33096,89147,2>Ai
+;<33104,91024,22>「さすがにひくわ……」
+<33104,91024,22>"Ummm yikes..."
+<33128,91047,10>ked_000057
+;<33176,75502,2>圭
+<33176,75502,2>Kei
+;<33184,75087,12>「直哉……」
+<33184,75087,12>"Naoya..."
+;<33232,74928,4>直哉
+<33232,74928,4>Naoya
+;<33240,91058,60>「ち、違う、今のはその？　なんだ？　全裸が好きというか……」
+<33240,91058,60>"No, wait, I can explain. I mean, I kinda prefer nudity..."
+<33264,91119,10>ked_000058
+;<33312,75502,2>圭
+<33312,75502,2>Kei
+;<33320,91130,14>「露出狂か！」
+<33320,91130,14>"He's an exhibitionist!"
+;<33368,74928,4>直哉
+<33368,74928,4>Naoya
+;<33376,91145,12>「そうだ！」
+<33376,91145,12>"Yes, exactly!"
+<33408,91158,7>ev5000b
+<33432,91166,10>aid_000016
+;<33480,89147,2>藍
+;<33480,89147,2>Ai
+;<33488,91177,68>「苦し紛れにでたらめ言うな！　あほか！　余計自分を追い詰めてるぞ！」
+<33488,91177,68>"Don't spew nonsense just because you're driven into a corner! You idiot! You're just making things worse for yourself!"
+;<33536,74928,4>直哉
+<33536,74928,4>Naoya
+;<33544,91246,58>「だって、そうでもしないと……ちきしょう、ちきしょう……」
+<33544,91246,58>"But if I don't...fuck...fuck..."
+<33576,89128,7>ev5000a
+<33600,91305,10>aid_000017
+;<33648,89147,2>藍
+<33648,89147,2>Ai
+;<33656,91316,38>「やっぱり金がほしかったんだろう……」
+<33656,91316,38>"You really did want the money didn't you?"
+;<33704,74928,4>直哉
+<33704,74928,4>Naoya
+;<33712,91355,90>「ああ、そうだよ。本当は金がほしかったんだよ。喉から手が出るぐらい金がほしかったんだ……」
+<33712,91355,90>"Yeah, I did. I really wanted that money. I'd do anything for that money to be honest..."
+<33736,91446,10>ked_000059
+;<33784,75502,2>圭
+<33784,75502,2>Kei
+;<33792,91457,52>「金ってなんだよ？　その遺産放棄って何の話なんだ？」
+<33792,91457,52>"What money? What do you mean by disclaiming the inheritance?"
+<33824,89211,7>ev5000e
+<33848,91510,10>aid_000018
+;<33896,89147,2>藍
+<33896,89147,2>Ai
+;<33904,91521,50>「草薙なぁ、草薙健一郎の遺産を全額放棄したんだよ」
+<33904,91521,50>"You see Kusanagi...disclaimed the entirety of Ken'ichiro Kusanagi's inheritance"
+<33928,91572,10>ked_000060
+;<33976,75502,2>圭
+<33976,75502,2>Kei
+;<33984,91583,60>「そうなんだ……。んで？　いくらぐらいなの？　その遺産って」
+<33984,91583,60>"I see...so how much was it worth?"
+<34008,91644,10>aid_000019
+;<34056,89147,2>藍
+<34056,89147,2>Ai
+;<34064,91655,18>「およそ１５億円」
+<34064,91655,18>"About 14 million dollars"
+<34088,91674,10>ked_000061
+;<34136,75502,2>圭
+<34136,75502,2>Kei
+;<34144,91685,12>「マジで？」
+<34144,91685,12>"Seriously?"
+;<34192,74928,4>直哉
+<34192,74928,4>Naoya
+;<34200,91698,22>「つい出来心でな……」
+<34200,91698,22>"You see I just got a little impulsive..."
+<34224,91721,10>ked_000062
+;<34272,75502,2>圭
+<34272,75502,2>Kei
+;<34280,91732,30>「なんでそんな無茶したんだよ」
+<34280,91732,30>"How could you do something that reckless?"
+;<34328,74928,4>直哉
+<34328,74928,4>Naoya
+;<34336,91763,144>「だから出来心だと言ってるだろう……日本人的な美意識というか倫理観というか、芸術的判断というか……そういう高尚なものが俺を揺るがしたんだよ……」
+<34336,91763,144>"That's why I'm saying it was just an impulse! Call it Japanese aesthetic sense, call it my moral outlook, call it an artistic decision...I was wavered by my noble ideals!"
+<34368,89128,7>ev5000a
+<34392,91908,10>aid_000020
+;<34440,89147,2>藍
+<34440,89147,2>Ai
+;<34448,91919,42>「高尚なものが判断を揺るがした。ねぇ……」
+<34448,91919,42>"You say your decision-making was wavered by noble ideals..."
+;<34496,74928,4>直哉
+<34496,74928,4>Naoya
+;<34504,91962,68>「ああ、そうなんだ。でも、今なら分かるんだ。金がどれだけ大事か……」
+<34504,91962,68>"Yeah, that's right. But now I understand just how important money is"
+;<34552,74928,4>直哉
+<34552,74928,4>Naoya
+;<34560,92031,110>「金は魂よりも命よりも重い。金が無ければ首が無いのと同じだ。金で世界は動いている。世界とは金の総体なんだ……」
+<34560,92031,110>"Money is more important than the soul or life itself. Life without money is like living without a head. The world operates based on money. The world itself can be said to be a macrocosm of money"
+<34592,91005,7>ev5000d
+<34616,92142,10>aid_000021
+;<34664,89147,2>藍
+<34664,89147,2>Ai
+;<34672,92153,66>「とてもじゃないが、高尚な美意識を持った人間の発言とは思えんぞ？」
+<34672,92153,66>"At any rate, I don't think those are words that would come out of the mouth of a person with a noble aesthetic sense"
+;<34720,74928,4>直哉
+<34720,74928,4>Naoya
+;<34728,92220,42>「そんな事はどうでもイイ！　金が大事だ！」
+<34728,92220,42>"That's not important! What is important is money!"
+<34760,89211,7>ev5000e
+<34784,92263,10>ked_000063
+;<34832,75502,2>圭
+<34832,75502,2>Kei
+;<34840,92274,116>「そんな<r す>荒</r>れた発言するなよ。なんか悲しいぞ俺は……。だいたい姉貴がどうにかしてくれるらしいじゃないか……」
+<34840,92274,116>"You don't need to say something so combatative. You're gonna make me sad...isn't my sister doing everything she can for you?"
+;<34888,74928,4>直哉
+<34888,74928,4>Naoya
+;<34896,92391,132>「ああ、そうだよ。ありがとう藍。これで、俺は金持ちだ……。金ですべてが買える。金ですべてを支配出来る。良かった、本当に良かったよぉ」
+<34896,92391,132>"Ah, that's right. Thank you, Ai. Thanks to you, I am rich...I can buy everything with this money. With this money, I'll have dominion over all. What a relief, really"
+<34920,92524,10>ked_000064
+;<34968,75502,2>圭
+<34968,75502,2>Kei
+;<34976,92535,22>「良かったなぁ。直哉」
+<34976,92535,22>"Glad things worked out, Naoya"
+;<35024,74928,4>直哉
+<35024,74928,4>Naoya
+;<35032,92558,30>「良かった。良かったよぉ……」
+<35032,92558,30>"Yeah, I'm glad too..."
+<35064,89577,7>ev5000c
+<35088,92589,10>aid_000022
+;<35136,89147,2>藍
+<35136,89147,2>Ai
+;<35144,92600,8>「嘘だ」
+<35144,92600,8>"I lied"
+;<35192,74928,4>直哉
+<35192,74928,4>Naoya
+;<35200,92609,12>「ウソダ？」
+<35200,92609,12>"YOU LIED?"
+<35224,92622,10>aid_000023
+;<35272,89147,2>藍
+<35272,89147,2>Ai
+;<35280,92633,14>「あれは嘘だ」
+<35280,92633,14>"That was a lie"
+;<35328,74928,4>直哉
+<35328,74928,4>Naoya
+;<35336,92648,18>「アレハウソダ？」
+<35336,92648,18>"THAT WAS A LIE?"
+<35360,92667,10>aid_000024
+;<35408,89147,2>藍
+<35408,89147,2>Ai
+;<35416,92678,38>「遺産放棄を無効にする方法など知らん」
+<35416,92678,38>"I have no idea how to invalidate your disclaimer of inheritance"
+;<35464,74928,4>直哉
+<35464,74928,4>Naoya
+;<35472,92717,38>「伊サン箒ヲ婿ニスル方法ナドシラン？」
+<35472,92717,38>"Y0U H4V3 N0 1D34 H0W 70 1NV4L1D47E MY D15CL41ME12 0F 1NH312174NC3?"
+<35504,91005,7>ev5000d
+<35528,92756,10>aid_000025
+;<35576,89147,2>藍
+<35576,89147,2>Ai
+;<35584,92767,146>「現実逃避はやめろ……お金は返ってこないぞ。というか格好つけただけならいざ知らず、ご丁寧にサインまでして、金なんぞ返ってくるわけが無いだろう……」
+<35584,92767,146>"Stop running away from reality; the money isn't coming back. I have no idea why you tried to act cool, but to go so far as to sign those documents...there's probably no way you'll ever get that money back"
+;<35632,74928,4>直哉
+<35632,74928,4>Naoya
+;<35640,92914,40>「カネナンゾカエッテクルワケナイダロー」
+<35640,92914,40>"PROBABLY NO WAY I'LL EVER GET THAT MONEY BACK"
+<35672,89211,7>ev5000e
+;<35720,74928,4>直哉
+<35720,74928,4>Naoya
+;<35728,92955,10>「ダロー」
+<35728,92955,10>"PROBABLY"
+<35752,92966,10>ked_000065
+;<35800,75502,2>圭
+<35800,75502,2>Kei
+;<35808,92977,92>「え、えっと……あ、あのさぁ直哉……。現実を直視しようよ。現実逃避しても仕方ないじゃないか」
+<35808,92977,92>"Hey, um, Naoya...let's take a close look at reality. Even if you try to run, it won't do anything for you"
+;<35856,74928,4>直哉
+<35856,74928,4>Naoya
+;<35864,93070,20>「ゲ…ン…ジ…ツ？」
+<35864,93070,20>"RE..A..LI..TY"
+<35888,93091,10>ked_000066
+;<35936,75502,2>圭
+<35936,75502,2>Kei
+;<35944,93102,70>「そうだよ。どうやら何をやっても遺産は手に入らないみたいなんだからさ」
+<35944,93102,70>"That's right. Since it seems that no matter what you do, you'll never get that inheritance"
+;<35992,74928,4>直哉
+<35992,74928,4>Naoya
+;<36000,93173,12>「現実……」
+<36000,93173,12>"Reality..."
+;<36048,74928,4>直哉
+<36048,74928,4>Naoya
+;<36056,79804,8>「……」
+<36056,79804,8>"..."
+;<36104,74928,4>直哉
+<36104,74928,4>Naoya
+;<36112,93186,62>「なんだとぉぉおお！　何をやっても遺産は手に入らないだとぉ！」
+<36112,93186,62>"What are you saying!? Why would you say that there's no way to get the inheritance!?"
+<36144,89128,7>ev5000a
+<36168,93249,10>aid_000026
+;<36216,89147,2>藍
+<36216,89147,2>Ai
+;<36224,93260,14>「遅いわ……」
+<36224,93260,14>"It's too late!"
+;<36272,74928,4>直哉
+<36272,74928,4>Naoya
+;<36280,93275,42>「つまり藍！　貴様俺をたぶらかしたなぁ！」
+<36280,93275,42>"You tricked me!"
+<36304,93318,10>aid_000027
+;<36352,89147,2>藍
+<36352,89147,2>Ai
+;<36360,93329,66>「アホかお前は……だいたいそんな方法を一教師の私が知るわけがない」
+<36360,93329,66>"Are you an idiot? Why would a teacher even know how to get your inheritance back?"
+;<36408,74928,4>直哉
+<36408,74928,4>Naoya
+;<36416,93396,52>「ぐぬぬ……、貴様俺の心をもてあそんだのだなぁ……」
+<36416,93396,52>"Guh...You really played with my heart"
+<36440,93449,10>aid_000028
+;<36488,89147,2>藍
+<36488,89147,2>Ai
+;<36496,93460,70>「お前がとぼけた事ぬかすからだ。本当にお前らは無理な格好つけばかりだ」
+<36496,93460,70>"Because you kept feigning ignorance. Really, you guys are impossible to deal with"
+;<36544,74928,4>直哉
+<36544,74928,4>Naoya
+;<36552,93531,90>「うう、俺の金ぇ、俺の遺産、棚からぼた餅的な大金……さらにあんな努力して上乗せしたのにぃ」
+<36552,93531,90>"Ughh...my money...my inheritance...my windfall of cash...I worked so hard for that money"
+<36576,93622,10>aid_000029
+;<36624,89147,2>藍
+<36624,89147,2>Ai
+;<36632,93633,22>「自業自得だろう……」
+<36632,93633,22>"Well, you brought this upon yourself"
+<36656,93656,10>ked_000067
+;<36704,75502,2>圭
+<36704,75502,2>Kei
+;<36712,75087,12>「直哉……」
+<36712,75087,12>"Naoya..."
+;<36760,74928,4>直哉
+<36760,74928,4>Naoya
+;<36768,93667,10>「圭……」
+<36768,93667,10>"Kei..."
+<36792,93678,10>ked_000068
+;<36840,75502,2>圭
+<36840,75502,2>Kei
+;<36848,93689,12>「アホだな」
+<36848,93689,12>"You're a moron"
+;<36896,74928,4>直哉
+<36896,74928,4>Naoya
+;<36904,93702,26>「お前に言われたくない！」
+<36904,93702,26>"You're the last person I want to hear that from!"
+<36936,89577,7>ev5000c
+<36960,93729,10>aid_000030
+;<37008,89147,2>藍
+<37008,89147,2>Ai
+;<37016,93740,42>「まぁいいではないか。とても草薙らしくて」
+<37016,93740,42>"Well, it is what it is. What you did is very much like you"
+;<37064,74928,4>直哉
+<37064,74928,4>Naoya
+;<37072,93783,52>「ぐぬぬ、まだ言うか。まだ、俺をアホって罵る気か？」
+<37072,93783,52>"Ugh...you're still saying that? Are you really trying to make me feel like that much of an idiot?"
+<37104,89211,7>ev5000e
+<37128,93836,10>aid_000031
+;<37176,89147,2>藍
+<37176,89147,2>Ai
+;<37184,93847,56>「何度も言ってるだろう。お前をずっと見てきた私だぞ……」
+<37184,93847,56>"I'll say it as much as I want. After all, I've always looked after you"
+;<37232,74928,4>直哉
+<37232,74928,4>Naoya
+;<37240,93904,46>「だから俺のアホさを見抜けるとでもぬかすか！」
+<37240,93904,46>"Are you trying to say you can see straight through my idiocy?!"
+<37272,89577,7>ev5000c
+<37296,93951,10>aid_000032
+;<37344,89147,2>藍
+<37344,89147,2>Ai
+;<37352,93962,68>「そうだな……。それなりに見てきたからお前がアホな事を良く知ってる」
+<37352,93962,68>"I guess...I've looked after you so much that I know very well how much of a moron you are"
+<37376,94031,10>aid_000033
+;<37424,89147,2>藍
+<37424,89147,2>Ai
+;<37432,94042,40>「お前らは本当に意地っ張りだからな……」
+<37432,94042,40>"You guys are really stubborn"
+;<37480,74928,4>直哉
+<37480,74928,4>Naoya
+;<37488,94083,35>「さっきからお前“ら”って何だよ。\n
+<37488,94083,35>"What do you mean by 'you guys'?\n
+;<37536,74928,4>直哉
+<37536,74928,4>Naoya
+;<37544,94119,66>お、俺はたしかに、少し意地っ張りなところがあったかもしれんが……」
+<37544,94119,66>Maybe I could be called a little stubborn, but Kei..."
+<37568,94186,10>aid_000034
+;<37616,89147,2>藍
+<37616,89147,2>Ai
+;<37624,94197,72>「少しなものか……二人ともとてつもなく、意地っ張りで、見栄っ張りだ……」
+<37624,94197,72>"I wouldn't say 'a little'. Both of you are really stubborn and really vain"
+<37648,94270,10>aid_000035
+;<37696,89147,2>藍
+<37696,89147,2>Ai
+;<37704,94281,86>「そんな意地っ張りな二人には礼を言わなきゃいけないのにな。いや、謝罪かもしれない……」
+<37704,94281,86>"Both of you are so stubborn, but I still need to thank you. Or maybe...I need to apologize"
+;<37752,74928,4>直哉
+<37752,74928,4>Naoya
+;<37760,94368,18>「何だよそれ……」
+<37760,94368,18>"What are you talking about...?"
+<37784,94387,10>aid_000036
+;<37832,89147,2>藍
+<37832,89147,2>Ai
+;<37840,94398,45>「私は今回も何も出来なかったのだからな……。\n
+<37840,94398,45>"Since I couldn't do anything to help you this time around...\n
+;<37888,89147,2>藍
+<37888,89147,2>Ai
+;<37896,94444,42>私は無力だよ。今まで何をしてきたのか……」
+<37896,94444,42>I'm powerless. What have I been doing this whole time?"
+;<37944,74928,4>直哉
+<37944,74928,4>Naoya
+;<37952,94487,50>「……バカか、その事をお前は知らないはずだろ……」
+<37952,94487,50>"Huh? You shouldn't have even known about it in the first place..."
+<37984,89211,7>ev5000e
+<38008,94538,10>aid_000037
+;<38056,89147,2>藍
+<38056,89147,2>Ai
+;<38064,75087,12>「直哉……」
+<38064,75087,12>"Naoya..."
+;<38112,74928,4>直哉
+<38112,74928,4>Naoya
+;<38120,94549,31>「もう、何も問題は無いのだろ？\n
+<38120,94549,31>"There aren't any problems left anyway, right?\n
+;<38168,74928,4>直哉
+<38168,74928,4>Naoya
+;<38176,94581,64>だったら、何も言うべきではない。すべてが新しくなったのだからさ」
+<38176,94581,64>So there's nothing you need to say. I'm just going to start anew"
+;<38224,74928,4>直哉
+<38224,74928,4>Naoya
+;<38232,94646,57>「それに、道化を演じる者のその素顔をさらすもんじゃない。\n
+<38232,94646,57>"More importantly, a clown never shows their face without makeup.\n
+;<38280,74928,4>直哉
+<38280,74928,4>Naoya
+;<38288,94704,82>そいつが、どんな汗をかいたか知らないが、たぶん舞台裏は絶対に見せたくないハズだよ」
+<38288,94704,82>No matter how much they sweat, they won't want to show it when they're offstage."
+<38312,94787,10>aid_000038
+;<38360,89147,2>藍
+<38360,89147,2>Ai
+;<38368,94798,46>「道化……、あれを道化と言うのだろうかな……」
+<38368,94798,46>"Clown...You're saying you were a clown...?"
+;<38416,74928,4>直哉
+<38416,74928,4>Naoya
+;<38424,94845,49>「ああ、道化師はトランプだったら切り札だからな。\n
+<38424,94845,49>"Yeah, and if we're talking about cards, the clown would be the joker.\n
+;<38472,74928,4>直哉
+<38472,74928,4>Naoya
+;<38480,94895,54>どんな、逆境だって、一発逆転させるのが道化師の役目さ」
+<38480,94895,54>No matter how bad the situation is, the joker's job is to be the single card that turns things around."
+<38504,94950,10>aid_000039
+;<38552,89147,2>藍
+<38552,89147,2>Ai
+;<38560,94961,36>「ゲームが違ったら、命取りにもなる」
+<38560,94961,36>"But in a different game the joker might mean an instant loss"
+;<38608,74928,4>直哉
+<38608,74928,4>Naoya
+;<38616,94998,78>「そういう事もあるが、まぁ、そのゲームはもう終わったんだよ。勝負の結果が今だ」
+<38616,94998,78>"Maybe...but that game is over anyway. The results of the match are right here"
+<38648,89577,7>ev5000c
+<38672,95077,10>aid_000040
+;<38720,89147,2>藍
+<38720,89147,2>Ai
+;<38728,95088,8>「うん」
+<38728,95088,8>"Hm"
+<38752,95097,10>aid_000041
+;<38800,89147,2>藍
+<38800,89147,2>Ai
+;<38808,95108,63>「私は知らないんだ。だからお礼を言う事も、謝罪も言えない……。\n
+<38808,95108,63>"I don't really know. That's why I won't thank you, nor apologize...\n
+;<38856,89147,2>藍
+<38856,89147,2>Ai
+;<38864,95172,50>一生を尽くしても返しきれないほどの借りなのに……」
+<38864,95172,50>Even though I have a debt to you that I couldn't pay off even if I tried my entire life..."
+<38888,95223,10>aid_000042
+;<38936,89147,2>藍
+<38936,89147,2>Ai
+;<38944,95234,31>「あの時からずっと同じだ……。\n
+<38944,95234,31>"It's always been the same ever since then...\n
+;<38992,89147,2>藍
+<38992,89147,2>Ai
+;<39000,95266,10>私は――」
+<39000,95266,10>I-..."
+;<39048,74928,4>直哉
+<39048,74928,4>Naoya
+;<39056,95277,10>「藍……」
+<39056,95277,10>"Ai..."
+<39080,95288,10>ked_000069
+;<39128,75502,2>圭
+<39128,75502,2>Kei
+;<39136,95299,26>「うおおおお大変だぁ！！」
+<39136,95299,26>"Uwahhhh oh no!!"
+<39168,90962,7>ev5000f
+<39192,95326,10>aid_000043
+;<39240,89147,2>藍
+<39240,89147,2>Ai
+;<39248,95337,36>「うわぁ、驚いた。ど、どうした圭？」
+<39248,95337,36>"Woah, you scared me. What's wrong Kei?"
+<39272,95374,10>ked_000070
+;<39320,75502,2>圭
+<39320,75502,2>Kei
+;<39328,95385,36>「いや、大した事じゃないんだけどな」
+<39328,95385,36>"Um, it's nothing really"
+<39360,89211,7>ev5000e
+<39384,95422,10>aid_000044
+;<39432,89147,2>藍
+<39432,89147,2>Ai
+;<39440,95433,20>「だから、どうした」
+<39440,95433,20>"But what happened?"
+<39464,95454,10>ked_000071
+;<39512,75502,2>圭
+<39512,75502,2>Kei
+;<39520,95465,92>「いきなり湧いて出てきた謎の幼○が、幼○の分際で年上風をふかせたので、つい大声だしてみたぞ」
+<39520,95465,92>"A little **** suddenly sprang out, and was acting like it was older and wiser even though it was a mere ****. So I accidentally screamed a little"
+<39552,95558,7>ev5000g
+<39576,95566,10>aid_000045
+;<39624,89147,2>藍
+<39624,89147,2>Ai
+;<39632,95577,15>「ほう……圭。\n
+<39632,95577,15>"Hmmm...Kei.\n
+;<39680,89147,2>藍
+<39680,89147,2>Ai
+;<39688,95593,23>草薙の悪影響で毒舌か？\n
+<39688,95593,23>Is Kusanagi's bad influence giving you a big mouth?\n
+;<39736,89147,2>藍
+<39736,89147,2>Ai
+;<39744,95617,30>似合わない事すると死ぬぞ……」
+<39744,95617,30>If you do things that don't fit you, you might die you know..."
+<39768,95648,10>ked_000072
+;<39816,75502,2>圭
+<39816,75502,2>Kei
+;<39824,95659,86>「だって、だって、姉貴が割り込むから悪いんだぞ！　俺と直哉が大事な話をしている時に！」
+<39824,95659,86>"Well it's your fault for butting in! I was having an important discussion with Naoya!"
+<39856,89211,7>ev5000e
+<39880,95746,10>aid_000046
+;<39928,89147,2>藍
+<39928,89147,2>Ai
+;<39936,95757,14>「大事な話？」
+<39936,95757,14>"An important discussion?"
+<39960,95772,10>ked_000073
+;<40008,75502,2>圭
+<40008,75502,2>Kei
+;<40016,95783,50>「そうだ！　あの話しろって言ってたの姉貴だろ……」
+<40016,95783,50>"That's right! And you're the one who told me to ask anyway..."
+<40040,95834,10>aid_000047
+;<40088,89147,2>藍
+<40088,89147,2>Ai
+;<40096,95845,60>「あの話って……、なんだお前、まだ終わっていなかったのか？」
+<40096,95845,60>"Wait...you still haven't asked him?"
+<40120,95906,10>ked_000074
+;<40168,75502,2>圭
+<40168,75502,2>Kei
+;<40176,95917,57>「まだとか言うな！　物事には機微というものがあってだな！\n
+<40176,95917,57>"Don't say 'still' like that! There are subtleties in all things you know!\n
+;<40224,75502,2>圭
+<40224,75502,2>Kei
+;<40232,95975,26>簡単なものではないんだぞ」
+<40232,95975,26>This isn't something that can be asked easily"
+;<40280,74928,4>直哉
+<40280,74928,4>Naoya
+;<40288,96002,26>「それで、話ってなんだ？」
+<40288,96002,26>"What are you guys talking about?"
+<40312,96029,10>ked_000075
+;<40360,75502,2>圭
+<40360,75502,2>Kei
+;<40368,96040,116>「あのな、どこから話せばいいかなぁ……あのな直哉。どうやって説明すればいいんだかわからないんだけどな……あのさ……」
+<40368,96040,116>"Well...where should I start...uhh Naoya...I don't really know how to explain this but..."
+;<40416,74928,4>直哉
+<40416,74928,4>Naoya
+;<40424,96157,26>「そんな複雑な話なのか？」
+<40424,96157,26>"It's really that complex?"
+<40448,96184,10>ked_000076
+;<40496,75502,2>圭
+<40496,75502,2>Kei
+;<40504,96195,92>「うーん。複雑ではないんだけど、あのな、どう言って説明していいのか、なかなか難しくてな……」
+<40504,96195,92>"Well...it's not complex but...it's difficult to figure out how to explain..."
+<40536,89577,7>ev5000c
+<40560,96288,10>aid_000048
+;<40608,89147,2>藍
+<40608,89147,2>Ai
+;<40616,96299,8>「草薙」
+<40616,96299,8>"Kusanagi"
+;<40664,74928,4>直哉
+<40664,74928,4>Naoya
+;<40672,96308,10>「はい？」
+<40672,96308,10>"Yes?"
+<40696,96319,10>aid_000049
+;<40744,89147,2>藍
+<40744,89147,2>Ai
+;<40752,96330,14>「ウチに住め」
+<40752,96330,14>"Live with us"
+;<40808,96345,26>　三秒ぐらいの世界の静止。
+<40808,96345,26>The world stopped for three seconds.
+;<40856,74928,4>直哉
+<40856,74928,4>Naoya
+;<40864,96372,10>「はぁ？」
+<40864,96372,10>"Huh?"
+;<40912,74928,4>直哉
+<40912,74928,4>Naoya
+;<40920,96383,30>「ウチってどこのウチなんだ？」
+<40920,96383,30>"What do you mean by 'with us'?"
+<40944,96414,10>aid_000050
+;<40992,89147,2>藍
+<40992,89147,2>Ai
+;<41000,96425,14>「夏目の家だ」
+<41000,96425,14>"With us, at the Natsume house"
+;<41048,74928,4>直哉
+<41048,74928,4>Naoya
+;<41056,96440,18>「夏目の家って？」
+<41056,96440,18>"The Natsume house...?"
+<41080,96459,10>aid_000051
+;<41128,89147,2>藍
+<41128,89147,2>Ai
+;<41136,96470,10>「ウチだ」
+<41136,96470,10>"Our home"
+;<41184,74928,4>直哉
+<41184,74928,4>Naoya
+;<41192,96481,16>「ウチって……」
+<41192,96481,16>"Our home...?"
+<41216,96498,10>aid_000052
+;<41264,89147,2>藍
+<41264,89147,2>Ai
+;<41272,96509,56>「小音羽の夏目の屋敷だ。お前だって良く知っているだろ？」
+<41272,96509,56>"The Natsume mansion in Kootowa. I think even you should know about it"
+;<41320,74928,4>直哉
+<41320,74928,4>Naoya
+;<41328,96566,47>「知ってるも何も……小音羽の夏目屋敷って……。\n
+<41328,96566,47>"It goes without saying that I know about it...\n
+;<41376,74928,4>直哉
+<41376,74928,4>Naoya
+;<41384,96614,18>あのなぁ、藍……」
+<41384,96614,18>But, um, Ai..."
+<41408,96633,10>ked_000077
+;<41456,75502,2>圭
+<41456,75502,2>Kei
+;<41464,96644,92>「ほら！　姉貴は機微がわかってないんだよ！　直接すぎるんだよ！　直哉混乱してるじゃんかよ！」
+<41464,96644,92>"See! You don't know anything about sublety! That was way too direct! Naoya's so confused right now"
+<41496,91158,7>ev5000b
+<41520,96737,10>aid_000053
+;<41568,89147,2>藍
+<41568,89147,2>Ai
+;<41576,96748,28>「圭こそ横やりをいれるなっ」
+<41576,96748,28>"Kei, you shouldn't be butting in"
+;<41624,74928,4>直哉
+<41624,74928,4>Naoya
+;<41632,96777,33>「あー、待て、待て、喧嘩はよせ。\n
+<41632,96777,33>"Hey, wait, wait, stop fighting.\n
+;<41680,74928,4>直哉
+<41680,74928,4>Naoya
+;<41688,96811,112>えっと、そのなんだ？　つまり“ウチに来ないか”とは、それは小音羽の夏目家で、藍や圭の家に厄介になれということか」
+<41688,96811,112>Um, so when you said 'live with us', you meant that I should be your guest at the Natsume house in Kootowa?"
+<41720,89577,7>ev5000c
+<41744,96924,10>aid_000054
+;<41792,89147,2>藍
+<41792,89147,2>Ai
+;<41800,96935,14>「そうだ……」
+<41800,96935,14>"Yup"
+;<41848,74928,4>直哉
+<41848,74928,4>Naoya
+;<41856,96950,28>「それは今日という意味か？」
+<41856,96950,28>"And you mean starting today?"
+<41880,96979,10>aid_000055
+;<41928,89147,2>藍
+<41928,89147,2>Ai
+;<41936,96990,28>「私は今日からでもかまわん」
+<41936,96990,28>"I don't mind if you start today"
+;<41984,74928,4>直哉
+<41984,74928,4>Naoya
+;<41992,97019,32>「今日からって……いつまでだよ」
+<41992,97019,32>"From today to...when exactly?"
+<42016,97052,10>aid_000056
+;<42064,89147,2>藍
+<42064,89147,2>Ai
+;<42072,97063,28>「お前が一人前になるまでだ」
+<42072,97063,28>"Until you become a real adult"
+;<42120,74928,4>直哉
+<42120,74928,4>Naoya
+;<42128,97092,18>「一人前って……」
+<42128,97092,18>"An adult..."
+<42152,97111,10>aid_000057
+;<42200,89147,2>藍
+<42200,89147,2>Ai
+;<42208,97122,72>「これから、学校を卒業するまで、ウチでみんなで暮らそうと言っているんだ」
+<42208,97122,72>"I'm saying that we should all live together from now until you graduate high school"
+;<42256,74928,4>直哉
+<42256,74928,4>Naoya
+;<42264,97195,16>「藍、あのなぁ」
+<42264,97195,16>"Ai, Umm..."
+<42296,89211,7>ev5000e
+<42320,97212,10>aid_000058
+;<42368,89147,2>藍
+<42368,89147,2>Ai
+;<42376,97223,32>「夏目の屋敷は良く知ってるだろ」
+<42376,97223,32>"You know all about the Natsume mansion right?"
+;<42424,74928,4>直哉
+<42424,74928,4>Naoya
+;<42432,97256,26>「当たり前だ……だがな藍」
+<42432,97256,26>"Of course I do. But Ai..."
+<42464,89577,7>ev5000c
+<42488,97283,10>aid_000059
+;<42536,89147,2>藍
+<42536,89147,2>Ai
+;<42544,97294,112>「早急かもしれない、たしかにお前はそう感じるかもしれない……だけど、私だって考えに考えた末に言ってることだ……」
+<42544,97294,112>"You might think this is really sudden, but I'm saying this after having thought for a long time"
+;<42592,74928,4>直哉
+<42592,74928,4>Naoya
+;<42600,97407,20>「考えた末って……」
+<42600,97407,20>"Thought for a long time..."
+<42632,89211,7>ev5000e
+<42656,97428,10>aid_000060
+;<42704,89147,2>藍
+<42704,89147,2>Ai
+;<42712,97439,34>「だいたいお前は金がないのだろ？」
+<42712,97439,34>"You don't have any money anyway right?"
+;<42760,74928,4>直哉
+<42760,74928,4>Naoya
+;<42768,97474,36>「ああ金は無いな！　笑えるぐらい！」
+<42768,97474,36>"Yup, no money at all! A laughable amount of money!"
+<42800,89128,7>ev5000a
+<42824,97511,10>aid_000061
+;<42872,89147,2>藍
+<42872,89147,2>Ai
+;<42880,97522,38>「そんなやけくそで強調しなくても……」
+<42880,97522,38>"You don't have to beat yourself up about it so much..."
+<42904,97561,10>ked_000078
+;<42952,75502,2>圭
+<42952,75502,2>Kei
+;<42960,97572,38>「だったら一緒に住めばいいじゃないか」
+<42960,97572,38>"So let's just live together!"
+;<43008,74928,4>直哉
+<43008,74928,4>Naoya
+;<43016,97611,32>「そういう問題じゃないだろ……」
+<43016,97611,32>"That's not the issue..."
+<43048,89577,7>ev5000c
+<43072,97644,10>aid_000062
+;<43120,89147,2>藍
+<43120,89147,2>Ai
+;<43128,97655,48>「それだけでも十分に一緒に住む理由になるだろう」
+<43128,97655,48>"Isn't that enough of a reason for us to be living together?"
+;<43176,74928,4>直哉
+<43176,74928,4>Naoya
+;<43184,97704,34>「たしかにそうかもしれないが……」
+<43184,97704,34>"Well maybe but..."
+<43208,97739,10>aid_000063
+;<43256,89147,2>藍
+<43256,89147,2>Ai
+;<43264,97750,25>「無理にとは言わんが……\n
+<43264,97750,25>"I'm not going to pressure you but...\n
+;<43312,89147,2>藍
+<43312,89147,2>Ai
+;<43320,97776,23>“絶対に一緒に住め！”\n
+<43320,97776,23>'I'm ordering you to live with us!'\n
+;<43368,89147,2>藍
+<43368,89147,2>Ai
+;<43376,97800,30>私が言えるのはただそれだけだ」
+<43376,97800,30>That's about as much as I can say"
+;<43424,74928,4>直哉
+<43424,74928,4>Naoya
+;<43432,97831,34>「無理にでもと言ってるだろそれ？」
+<43432,97831,34>"It sounds like you're pressuring me if you say it like that"
+<43456,97866,10>aid_000064
+;<43504,89147,2>藍
+<43504,89147,2>Ai
+;<43512,97877,96>「草薙、私はお前の事をずっと圭と同じく、実の弟と思ってきた。だから一緒に暮らしたいと思った……」
+<43512,97877,96>"Kusanagi, I've always viewed you as my younger brother, connected by blood, just like Kei. So I just thought I'd like for us to live together"
+;<43560,74928,4>直哉
+<43560,74928,4>Naoya
+;<43568,97974,20>「一緒に暮らす……」
+<43568,97974,20>"Live together..."
+<43592,97995,10>aid_000065
+;<43640,89147,2>藍
+<43640,89147,2>Ai
+;<43648,98006,58>「ああ、そうだ。あの頃の様にまた一緒に暮らしたいと思った」
+<43648,98006,58>"Yeah, that's right. I wanted us to live together again, like we did before"
+;<43696,74928,4>直哉
+<43696,74928,4>Naoya
+;<43704,98065,32>「あの頃とはまた古い話だな……」
+<43704,98065,32>"But that was so long ago..."
+<43728,98098,10>aid_000066
+;<43776,89147,2>藍
+<43776,89147,2>Ai
+;<43784,98109,50>「ああ、そうだ……とは言ってもそんな記憶はないか」
+<43784,98109,50>"Yeah, that's right. But you don't remember, do you?"
+;<43832,74928,4>直哉
+<43832,74928,4>Naoya
+;<43840,98160,22>「そうでもないさ……」
+<43840,98160,22>"It's not that I don't remember..."
+;<43896,98183,41>　俺の言葉に藍は少しだけ嬉しそうに笑う。\n
+<43896,98183,41>Ai smiled a bit upon hearing my words.\n
+;<43952,98225,40>その笑顔で、俺は少しだけ気分が軽くなる。
+<43952,98225,40>And I felt a little better after seeing her smile.
+;<44000,74928,4>直哉
+<44000,74928,4>Naoya
+;<44008,98266,39>「ま、いろいろとうれしい話ではあるが。\n
+<44008,98266,39>"Well, your offer does make me happy,\n
+;<44056,74928,4>直哉
+<44056,74928,4>Naoya
+;<44064,98306,20>俺には俺の家がある」
+<44064,98306,20>but I have my own house you know"
+;<44112,74928,4>直哉
+<44112,74928,4>Naoya
+;<44120,98327,38>「あの家はあの家で大切なものなんだよ」
+<44120,98327,38>"That house is special to me in its own way"
+<44144,98366,10>aid_000067
+;<44192,89147,2>藍
+<44192,89147,2>Ai
+;<44200,98377,96>「それは分かっている。分かっているさ……あの家がお前にとってどんな場所であるか……でもだな……」
+<44200,98377,96>"I realize that. I realize what kind of place that house is to you. But..."
+<44224,98474,10>ked_000079
+;<44272,75502,2>圭
+<44272,75502,2>Kei
+;<44280,98485,136>「あれだぞ。夏目の屋敷はおっきいからな！　空きの部屋だってあるし、アトリエ代わりに使える倉もあるからさ！　全然余裕で住めるハズなんだぞ」
+<44280,98485,136>"But you see! The Natsume mansion is huge! We even have a storehouse that can be used as an atelier! There's plenty of space for you!"
+<44312,89211,7>ev5000e
+;<44360,74928,4>直哉
+<44360,74928,4>Naoya
+;<44368,98622,82>「まぁ、あの屋敷なら人一人増えたところで手狭になるような事が無いのは認めるが……」
+<44368,98622,82>"Well, I will admit that with a mansion like that, it won't feel cramped just by adding a single person..."
+<44392,98705,10>ked_000080
+;<44440,75502,2>圭
+<44440,75502,2>Kei
+;<44448,98716,28>「だったら一緒に住もうぜ！」
+<44448,98716,28>"So let's live together!"
+;<44496,74928,4>直哉
+<44496,74928,4>Naoya
+;<44504,98745,38>「いや、それとこれとは話が別でな……」
+<44504,98745,38>"But just because I can live there, doesn't mean I should..."
+<44528,98784,10>ked_000081
+;<44576,75502,2>圭
+<44576,75502,2>Kei
+;<44584,98795,50>「でも、草薙健一郎が死んで、お前は天涯孤独だろ？」
+<44584,98795,50>"But now that Ken'ichiro Kusanagai has died, you're all alone in this world right?"
+;<44632,74928,4>直哉
+<44632,74928,4>Naoya
+;<44640,98846,65>「身よりが無いのはたしかだが、一人なのはいま始まった事じゃない。\n
+<44640,98846,65>"It's true that I don't have any relatives, but it's not like I just started being alone.\n
+;<44688,74928,4>直哉
+<44688,74928,4>Naoya
+;<44696,98912,44>おれは母親が死んでからずっと一人だった……」
+<44696,98912,44>I've been alone ever since my mother died..."
+<44720,98957,10>ked_000082
+;<44768,75502,2>圭
+<44768,75502,2>Kei
+;<44776,98968,50>「直哉……そうじゃなくてさぁ。もっと単純な話でさ」
+<44776,98968,50>"Naoya...It's not just that. I'm trying to say something even more simple"
+;<44824,74928,4>直哉
+<44824,74928,4>Naoya
+;<44832,99019,78>「いや、分かっている。分かっているさ。圭が言いたい事も……だけど違うんだ……」
+<44832,99019,78>"No, I understand. I really understand what you're trying to say...but I can't..."
+;<44880,74928,4>直哉
+<44880,74928,4>Naoya
+;<44888,99098,48>「すまん……うれしいお誘いではあったんだが……」
+<44888,99098,48>"I'm sorry...but I was really happy that you offered..."
+<45024,99147,10>aid_000068
+;<45072,89147,2>藍
+<45072,89147,2>Ai
+;<45080,79804,8>「……」
+<45080,79804,8>"..."
+;<45128,74928,4>直哉
+<45128,74928,4>Naoya
+;<45136,99158,6>「？」
+<45136,99158,6>"?"
+<45216,99165,7>ev5001a
+<45256,99173,6>bgm001
+;<45368,99180,42>　藍は俺の頭をつかむとそのまま抱きしめる。
+<45368,99180,42>Ai grabs my head, and holds me close.
+;<45424,99223,48>　あまりの突然の行動で俺は抵抗すら出来なかった。
+<45424,99223,48>It was so sudden that I couldn't resist, even if I wanted to.
+;<45472,74928,4>直哉
+;<45472,74928,4>Naoya
+;<45480,99272,18>「な？　あ、藍？」
+;<45480,99272,18>"Huh? A-Ai?"
+<45504,99291,10>aid_000069
+;<45552,89147,2>藍
+<45552,89147,2>Ai
+;<45560,99302,50>「そうだな。私が少し身勝手すぎたかもしれんな……」
+<45560,99302,50>"I understand. I think I was being a little too self-centered..."
+<45584,99353,10>aid_000070
+;<45632,89147,2>藍
+<45632,89147,2>Ai
+;<45640,99364,48>「草薙は、まだあのひとを許していないのだな……」
+<45640,99364,48>"You still haven't forgiven him after all..."
+;<45688,74928,4>直哉
+<45688,74928,4>Naoya
+;<45696,99413,18>「……あのひと？」
+<45696,99413,18>"...Him?"
+;<45744,74928,4>直哉
+<45744,74928,4>Naoya
+;<45752,79804,8>「……」
+<45752,79804,8>"..."
+;<45800,74928,4>直哉
+<45800,74928,4>Naoya
+;<45808,99432,12>「……別に」
+<45808,99432,12>"...It's not that..."
+<45832,99445,10>aid_000071
+;<45880,89147,2>藍
+<45880,89147,2>Ai
+;<45888,99456,50>「そうか、まぁそれも仕方がないかもしれないな……」
+<45888,99456,50>"Really? Well, even if you did, it wouldn't accomplish anything I guess..."
+;<45936,74928,4>直哉
+<45936,74928,4>Naoya
+;<45944,99507,38>「……だ、だから別にあいつに何も……」
+<45944,99507,38>"A-anyway I don't really have anything against him..."
+<45968,99546,10>aid_000072
+;<46016,89147,2>藍
+<46016,89147,2>Ai
+;<46024,99557,50>「出来たら、健一郎さんをあまり恨まないでくれ……」
+<46024,99557,50>"If you can, try not to hold a grudge against Ken'ichiro, ok?"
+;<46072,74928,4>直哉
+<46072,74928,4>Naoya
+;<46080,79804,8>「……」
+<46080,79804,8>"..."
+<46104,99608,10>aid_000073
+;<46152,89147,2>藍
+<46152,89147,2>Ai
+;<46160,99619,74>「これはあくまでもお願いだが、お前のお父さんをあまり恨まないでほしい……」
+<46160,99619,74>"I'm asking as a favor, but please, don't hold a grudge against your own father..."
+;<46208,74928,4>直哉
+<46208,74928,4>Naoya
+;<46216,99694,56>「……どいつもこいつも、女はあいつを弁護するのだな……」
+<46216,99694,56>"...Why does every woman want to defend that guy..."
+<46240,99751,10>aid_000074
+;<46288,89147,2>藍
+<46288,89147,2>Ai
+;<46296,99762,8>「女？」
+<46296,99762,8>"Woman?"
+;<46344,74928,4>直哉
+<46344,74928,4>Naoya
+;<46352,99771,40>「母親も……最後まで同じ事を言っていた」
+<46352,99771,40>"My mother too...she said the same thing right until the very end"
+<46376,99812,10>aid_000075
+;<46424,89147,2>藍
+<46424,89147,2>Ai
+;<46432,99823,56>「くす……あははははは……そうか、そうとも言えるな……」
+<46432,99823,56>"Haha...ahahahaha...well, I guess you can say that if you want..."
+;<46480,74928,4>直哉
+<46480,74928,4>Naoya
+;<46488,99880,70>「そうとも言えるじゃない。あいつの事を擁護するのはたいていは女だ……」
+<46488,99880,70>"I'm not just making this up. Almost everyone who supports that guy is a woman..."
+<46512,99951,10>aid_000076
+;<46560,89147,2>藍
+<46560,89147,2>Ai
+;<46568,99962,42>「なるほど、母親を取られてくやしいのか？」
+<46568,99962,42>"I see. So you're frustrated that he got your mother?"
+;<46616,74928,4>直哉
+<46616,74928,4>Naoya
+;<46624,100005,24>「まさか、ばかばかしい」
+<46624,100005,24>"No way, that's ridiculous"
+;<46672,74928,4>直哉
+<46672,74928,4>Naoya
+;<46680,100030,90>「あと、何を勘違いしてるか知らんが、本当にヤツの事を恨んでもいなければ許すも何もない……」
+<46680,100030,90>"Also, I don't know if you're misunderstanding or what, but I don't hold a grudge against him, and I'm not going to forgive him either"
+;<46728,74928,4>直哉
+<46728,74928,4>Naoya
+;<46736,100121,82>「ったく……にも関わらず、本当にどいつもこいつもあの男にいらぬ擁護ばかりする……」
+<46736,100121,82>"Christ...I don't get why everyone feels the need to defend that man"
+<46760,100204,10>aid_000077
+;<46808,89147,2>藍
+<46808,89147,2>Ai
+;<46816,100215,52>「いつも無表情の草薙が分かりやすく不機嫌になったな」
+<46816,100215,52>"You're usually so emotionless; it's so easy to tell when you're getting into a bad mood"
+;<46864,74928,4>直哉
+<46864,74928,4>Naoya
+;<46872,100268,22>「そんな事はない……」
+<46872,100268,22>"I'm not..."
+<46896,100291,10>aid_000078
+;<46944,89147,2>藍
+<46944,89147,2>Ai
+;<46952,100302,44>「まぁ、あの人はモテたからな。仕方がないか」
+<46952,100302,44>"Well, he was pretty popular with women. It's natural"
+<46976,100347,10>aid_000079
+;<47024,89147,2>藍
+<47024,89147,2>Ai
+;<47032,100358,66>「そういった意味では少し恨まれておいた方がいいな。あのひとは……」
+<47032,100358,66>"In that sense maybe it would do you good to hold a little bit of a grudge..."
+;<47080,74928,4>直哉
+<47080,74928,4>Naoya
+;<47088,100425,36>「どういう意味でだよ。意味わからん」
+<47088,100425,36>"In what sense? What the hell are you talking about?"
+<47112,100462,10>aid_000080
+;<47160,89147,2>藍
+<47160,89147,2>Ai
+;<47168,100473,22>「はははは、そうか？」
+<47168,100473,22>"Hahahaha, you don't get it?"
+;<47224,100496,50>　藍に頭をこんな風に抱かれたのは久しぶりだと思う。
+<47224,100496,50>It feels like the first time in a long time that Ai has held my head like this.
+;<47280,100547,48>　ガキの頃は、よく藍は俺の頭をこうやって抱いた。
+<47280,100547,48>When I was a little kid, she used to hold me like this all the time.
+;<47336,100596,74>　そうやってガキ扱いする藍を疎ましくも思ったが、正直うれしくもあった……。
+<47336,100596,74>I felt adverse to her treating me like a little kid, but honestly, I was also a little happy...
+;<47392,100671,56>　そんな事をしてくれたのは死んだ母ぐらいだったから……。
+<47392,100671,56>Since the only other person who did this was my dead mother...
+;<47448,100728,78>　藍は今は自分が通う学校の教師をしている。だけどAiは幼き俺にとって姉であった。
+<47448,100728,78>Now Ai is a teacher at my school, but when I was younger, Ai was more like an older sister.
+;<47504,100807,63>　小さい時、生意気で、子供のくせに世の中を舐めていた俺を……。\n
+<47504,100807,63>When I was younger I was so disobedient, and looked down on the world despite being a kid...\n
+;<47560,100871,34>そんな俺を彼女だけは許してくれた。
+<47560,100871,34>She's the only one who forgave a kid like that.
+;<47616,100906,18>　あの日以来……。
+<47616,100906,18>Ever since that day...
+;<47672,100925,46>　藍だけが唯一俺の事を心から許してくれていた。
+<47672,100925,46>Ai is the only one who really forgave me from the bottom of her heart.
+;<47720,74928,4>直哉
+<47720,74928,4>Naoya
+;<47728,79804,8>「……」
+<47728,79804,8>"..."
+;<47776,74928,4>直哉
+<47776,74928,4>Naoya
+;<47784,100972,42>「わかったから人の頭を抱くのはやめろ……」
+<47784,100972,42>"I get it, so you don't need to hold my head..."
+<47912,89211,7>ev5000e
+<47936,101015,10>aid_000081
+;<47984,89147,2>藍
+<47984,89147,2>Ai
+;<47992,101026,12>「照れるな」
+<47992,101026,12>"Don't get so embarrassed"
+;<48040,74928,4>直哉
+<48040,74928,4>Naoya
+;<48048,101039,16>「うるさい……」
+<48048,101039,16>"Shut up..."
+;<48096,74928,4>直哉
+<48096,74928,4>Naoya
+;<48104,101056,31>「だいたい一緒に住むって……、\n
+<48104,101056,31>"Anyway, if we're living together...\n
+;<48152,74928,4>直哉
+<48152,74928,4>Naoya
+;<48160,101088,42>圭と藍と一つ屋根の下で住むという事だろ？」
+<48160,101088,42>that means the three of us will be living under one roof, right?"
+<48184,101131,10>ked_000083
+;<48232,75502,2>圭
+<48232,75502,2>Kei
+;<48240,101142,50>「あ、そうだ、それだけじゃないぞ。妹が帰ってきた」
+<48240,101142,50>"Ah, now that you mention it, it won't just be us. Our little sister just came back"
+;<48288,74928,4>直哉
+<48288,74928,4>Naoya
+;<48296,101193,8>「妹？」
+<48296,101193,8>"Little sister?"
+<48320,101202,10>aid_000082
+;<48368,89147,2>藍
+<48368,89147,2>Ai
+;<48376,101213,35>「ああ、先月から妹が帰ってきてな。\n
+<48376,101213,35>"Yeah, last month our little sister just came back.\n
+;<48424,89147,2>藍
+<48424,89147,2>Ai
+;<48432,101249,30>今は夏目の屋敷に三人暮らしだ」
+<48432,101249,30>Right now it's the three of us at the Natsume mansion."
+;<48480,74928,4>直哉
+<48480,74928,4>Naoya
+;<48488,101280,38>「あー、そうか、妹か、妹がいたんだー」
+<48488,101280,38>"Ahh, I see, you had a little sister..."
+<48520,89577,7>ev5000c
+<48544,101319,10>aid_000083
+;<48592,89147,2>藍
+<48592,89147,2>Ai
+;<48600,101330,44>「まぁ、その辺りは夏目家なんでな……あはは」
+<48600,101330,44>"Well, that about sums up the Natsume family, ahaha"
+;<48656,101375,26>　ばつが悪そうに藍が笑う。
+;<48656,101375,26>Ai smiles uncomfortably.
+;<48704,74928,4>直哉
+<48704,74928,4>Naoya
+;<48712,101402,26>「それで妹さんの名前は？」
+<48712,101402,26>"So, what's her name?"
+<48736,101429,10>aid_000084
+;<48784,89147,2>藍
+<48784,89147,2>Ai
+;<48792,101440,10>「雫だよ」
+<48792,101440,10>"It's Shizuku"
+;<48840,74928,4>直哉
+<48840,74928,4>Naoya
+;<48848,101451,22>「しずく……雫か……」
+<48848,101451,22>"Shizuku...I see..."
+<48872,101474,10>ked_000084
+;<48920,75502,2>圭
+<48920,75502,2>Kei
+;<48928,101485,54>「あれ？　どうしたの？　直哉って雫と会った事無いよな」
+<48928,101485,54>"Huh? What's wrong? You haven't met her before, right?"
+<48960,89211,7>ev5000e
+;<49008,74928,4>直哉
+<49008,74928,4>Naoya
+;<49016,101540,10>「無いよ」
+<49016,101540,10>"Never"
+<49040,101551,10>ked_000085
+;<49088,75502,2>圭
+<49088,75502,2>Kei
+;<49096,101562,58>「そうなんだ。なんか雫の名前を聞いて納得していた様な……」
+<49096,101562,58>"I see. When you heard her name, it seemed like you were a little satisfied or something..."
+;<49144,74928,4>直哉
+<49144,74928,4>Naoya
+;<49152,101621,68>「いや、別に他意はない。ただ、そういう名前なんだな。と思っただけで」
+<49152,101621,68>"Don't read into it too much. I just thought, 'Ah, that's her name'"
+;<49200,74928,4>直哉
+<49200,74928,4>Naoya
+;<49208,101690,116>「んで、なんだ、その雫さんがいきなり知らない人間が家に入ってくるなんて許すわけないだろ？　会った事もない人間だぞ？」
+<49208,101690,116>"Anyway, there's no way this Shizuku person is going to be ok with some person she doesn't know barging into her house. We haven't even met you know?"
+<49232,101807,10>aid_000085
+;<49280,89147,2>藍
+<49280,89147,2>Ai
+;<49288,101818,50>「それなら問題ない。もちろん雫にも承諾を貰ってる」
+<49288,101818,50>"There's no problem. Of course, I've already gotten her permission"
+;<49336,74928,4>直哉
+<49336,74928,4>Naoya
+;<49344,101869,86>「ああ、あのバカ。面識も無い人間が一つ屋根の下に住む事をそんな易々と承諾するなよ……」
+<49344,101869,86>"Wow, what an idiot. How could you allow someone you've never met before to live under your roof with you so easily...?"
+<49368,101956,10>ked_000086
+;<49416,75502,2>圭
+<49416,75502,2>Kei
+;<49424,101967,34>「え？　やっぱり、雫知ってるの？」
+<49424,101967,34>"Huh? It really sounds like you know Shizuku"
+;<49472,74928,4>直哉
+<49472,74928,4>Naoya
+;<49480,102002,46>「知らないよ。だから面識が無いと言ってるだろ」
+<49480,102002,46>"I don't. I keep telling you that we don't know each other"
+<49504,102049,10>ked_000087
+;<49552,75502,2>圭
+<49552,75502,2>Kei
+;<49560,102060,32>「なんか変な反応するヤツだなぁ」
+<49560,102060,32>"Your reaction is just so weird"
+<49592,89577,7>ev5000c
+<49616,102093,10>aid_000086
+;<49664,89147,2>藍
+<49664,89147,2>Ai
+;<49672,102104,50>「まぁ、とりあえず、夏目家側は準備万端という事だ」
+<49672,102104,50>"Anyway, the Natsume family is all prepared for you"
+;<49720,74928,4>直哉
+<49720,74928,4>Naoya
+;<49728,102155,19>「ふぅ、なるほど。\n
+<49728,102155,19>"Hmm I see.\n
+;<49776,74928,4>直哉
+<49776,74928,4>Naoya
+;<49784,102175,20>そうみたいだな……」
+<49784,102175,20>It sure sounds like it..."
+<49808,102196,10>ked_000088
+;<49856,75502,2>圭
+<49856,75502,2>Kei
+;<49864,102207,76>「まぁ、急にこんなこと言われても、迷っちまうと思うけど……よく考えてくれよ」
+<49864,102207,76>"Well, I know you're going to hesistate when you're asked something like this so suddenly...but think about it for me, ok?"
+<49896,89211,7>ev5000e
+;<49944,74928,4>直哉
+<49944,74928,4>Naoya
+;<49952,102284,32>「ああ、分かった。分かった……」
+<49952,102284,32>"Yeah, I get it. I get it..."
+;<50000,74928,4>直哉
+<50000,74928,4>Naoya
+;<50008,102317,45>「でも、とりあえず、今日は終わったんだ……。\n
+<50008,102317,45>"Anyway, we're all done here today...\n
+;<50056,74928,4>直哉
+<50056,74928,4>Naoya
+;<50064,102363,20>だから休みたい……」
+<50064,102363,20>so I'd like to rest a little..."
+<50088,102384,10>ked_000089
+;<50136,75502,2>圭
+<50136,75502,2>Kei
+;<50144,102395,27>「うん、それがいいな……。\n
+<50144,102395,27>"Yeah, that's a good idea...\n
+;<50192,75502,2>圭
+<50192,75502,2>Kei
+;<50200,102423,44>何はともあれ終わったばかりなのだからな……」
+<50200,102423,44>It's all over in any case..."
+<50232,89577,7>ev5000c
+<50256,102468,10>aid_000087
+;<50304,89147,2>藍
+<50304,89147,2>Ai
+;<50312,102479,54>「そうだな……終わったのだものな。あの人の葬式も……」
+<50312,102479,54>"That's right...it's all over. His funeral and..."
+<50392,72390,7>sp0004a
+;<50496,102534,30>　そう言って藍が空を見上げた。
+<50496,102534,30>Ai said that, and looked up at the sky.
+;<50552,102565,46>　見上げた先には、桜の森の上につきだした煙突。
+<50552,102565,46>She looked in the direction of a chimney protruding from the cherry blossom forest.
+;<50608,102612,26>　煙がまだ立ち上っている。
+<50608,102612,26>There was still smoke pouring from it.
+<50632,102639,10>aid_000088
+;<50680,89147,2>藍
+<50680,89147,2>Ai
+;<50688,102650,72>「終わったばかりだから、新しくはじめるのはもう少し後でもいいだろう……」
+<50688,102650,72>"It's all just ended, so it's ok to wait a bit before starting anew..."
+<50712,102723,10>aid_000089
+;<50760,89147,2>藍
+<50760,89147,2>Ai
+;<50768,102734,26>「そうだよな、健一郎……」
+<50768,102734,26>"Isn't that right, Ken'ichiro?"
+<50888,102761,7>evb000g
+<50928,89064,6>bgm010
+<50960,102769,10>ked_000090
+;<51008,75502,2>圭
+<51008,75502,2>Kei
+;<51016,102780,30>「よし、いい返事待ってるぞ！」
+<51016,102780,30>"Alright! Waiting for some good news from you!"
+;<51064,74928,4>直哉
+<51064,74928,4>Naoya
+;<51072,102811,60>「いい返事って……何がお前にとっていい返事になるんだか……」
+<51072,102811,60>"Good news...I wonder what you would consider to be good news..."
+<51096,102872,10>ked_000091
+;<51144,75502,2>圭
+<51144,75502,2>Kei
+;<51152,102883,58>「そんなの当たり前じゃん。俺たちと一緒に住むって返事だよ」
+<51152,102883,58>"Isn't it obvious? I mean you saying you'll live with us"
+;<51200,74928,4>直哉
+<51200,74928,4>Naoya
+;<51208,102942,40>「そんな事言うなよ。そんな事言われると」
+<51208,102942,40>"Don't say that. If you say something like that I'll..."
+;<51256,74928,4>直哉
+<51256,74928,4>Naoya
+;<51264,102983,24>「素直に気色が悪い……」
+<51264,102983,24>"Honestly I'll feel disgusted..."
+<51296,76108,7>evb000f
+<51320,103008,10>ked_000092
+;<51368,75502,2>圭
+<51368,75502,2>Kei
+;<51376,103019,14>「んだとぉ！」
+<51376,103019,14>"What did you say!?"
+<51400,103034,10>aid_000090
+;<51448,89147,2>藍
+<51448,89147,2>Ai
+;<51456,103045,42>「それはそうと、圭、そろそろ五時になるぞ」
+<51456,103045,42>"Anyway, Kei, it's about to be 5 o'clock"
+<51488,75068,7>evb000b
+<51512,103088,10>ked_000093
+;<51560,75502,2>圭
+<51560,75502,2>Kei
+;<51568,103099,60>「ええええぇ！？　あわわわわ、お、俺、バイクとりにいくぞ！」
+<51568,103099,60>"Huh!? Awawawa, I- I'm gonna go get my motorcycle!"
+;<51616,74928,4>直哉
+<51616,74928,4>Naoya
+;<51624,103160,28>「何焦ってるんだ？　お前？」
+<51624,103160,28>"What are you getting so flustered about?"
+<51648,103189,10>aid_000091
+;<51696,89147,2>藍
+<51696,89147,2>Ai
+;<51704,103200,58>「ここの葬儀場って市営らしいから五時で駐車場が閉まるんだ」
+<51704,103200,58>"This funeral venue is apparently run by the city, so the parking lot closes at five"
+;<51752,74928,4>直哉
+<51752,74928,4>Naoya
+;<51760,103259,44>「なら急いだ方がいいぞ……あと五分で閉まる」
+<51760,103259,44>"If that's the case you should hurry up...you only have five more minutes"
+<51784,103304,10>ked_000094
+;<51832,75502,2>圭
+<51832,75502,2>Kei
+;<51840,103315,24>「ひぃぃい。大変だぞ！」
+<51840,103315,24>"Eek! This is bad!"
+;<51960,103340,60>　そう言い放つと、圭は葬儀場の横にある駐車場へと姿を消した。
+<51960,103340,60>Leaving us with that, Kei disappears into the parking lot adjacent to the funeral venue.
+<52040,89577,7>ev5000c
+<52080,99173,6>bgm001
+<52160,103401,10>aid_000092
+;<52208,89147,2>藍
+<52208,89147,2>Ai
+;<52216,103412,34>「さてと、私もそろそろ帰るか……」
+<52216,103412,34>"Well, I think I'm heading home too..."
+;<52264,74928,4>直哉
+<52264,74928,4>Naoya
+;<52272,79804,8>「……」
+<52272,79804,8>"..."
+;<52320,74928,4>直哉
+<52320,74928,4>Naoya
+;<52328,103447,22>「あの、あのさ……藍」
+<52328,103447,22>"Um, Ai...?"
+<52360,89211,7>ev5000e
+<52384,103470,10>aid_000093
+;<52432,89147,2>藍
+<52432,89147,2>Ai
+;<52440,103481,20>「ん？　なんだ草薙」
+<52440,103481,20>"Hm? What is it Kusanagi?"
+;<52488,74928,4>直哉
+<52488,74928,4>Naoya
+;<52496,103502,24>「あ、いや、なんだ……」
+<52496,103502,24>"Um, well, how can I say this...?"
+<52528,89577,7>ev5000c
+<52552,103527,10>aid_000094
+;<52600,89147,2>藍
+<52600,89147,2>Ai
+;<52608,103538,34>「なんだ？　用事なら早く言え……」
+<52608,103538,34>"What is it? If you need something, hurry up and tell me"
+;<52656,74928,4>直哉
+<52656,74928,4>Naoya
+;<52664,103573,44>「あいつの葬式に、出てくれてありがとう……」
+<52664,103573,44>"Thank you...for coming to his funeral..."
+<52696,89211,7>ev5000e
+<52720,103618,10>aid_000095
+;<52768,89147,2>藍
+<52768,89147,2>Ai
+;<52776,79804,8>「……」
+<52776,79804,8>"..."
+<52808,89577,7>ev5000c
+<52832,103629,10>aid_000096
+;<52880,89147,2>藍
+<52880,89147,2>Ai
+;<52888,103640,26>「ぷっ……なんだそれは？」
+<52888,103640,26>"Hmph...what was that?"
+;<52936,74928,4>直哉
+<52936,74928,4>Naoya
+;<52944,103667,52>「な、なんだよ、見ての通りだよ。お礼を言ったんだよ」
+<52944,103667,52>"Wh-what do you mean? It's like you just saw, I thanked you"
+<52968,103720,10>aid_000097
+;<53016,89147,2>藍
+<53016,89147,2>Ai
+;<53024,103731,34>「くす、くす、素直じゃないな……」
+<53024,103731,34>"Ahaha, you really can't be honest"
+;<53072,74928,4>直哉
+<53072,74928,4>Naoya
+;<53080,103766,26>「なんでそうなるんだよ！」
+<53080,103766,26>"Why would you say that now!?"
+<53112,91005,7>ev5000d
+<53136,103793,10>aid_000098
+;<53184,89147,2>藍
+<53184,89147,2>Ai
+;<53192,103804,50>「ならなんで目をそらして、すねた様に言うんだ……」
+<53192,103804,50>"Then why do you look away, and say it in such a sulky way?"
+;<53240,74928,4>直哉
+<53240,74928,4>Naoya
+;<53248,103855,10>「う……」
+<53248,103855,10>"Mm..."
+<53280,89577,7>ev5000c
+<53304,103866,10>aid_000099
+;<53352,89147,2>藍
+<53352,89147,2>Ai
+;<53360,103877,24>「草薙……いや直哉……」
+<53360,103877,24>"Kusanagi...no, Naoya..."
+;<53408,74928,4>直哉
+<53408,74928,4>Naoya
+;<53416,103902,16>「なんだよ……」
+<53416,103902,16>"What..."
+<53440,103919,10>aid_000100
+;<53488,89147,2>藍
+<53488,89147,2>Ai
+;<53496,103930,28>「お前は、変わらないな……」
+<53496,103930,28>"You really don't change"
+;<53544,74928,4>直哉
+<53544,74928,4>Naoya
+;<53552,103959,18>「なんだよ、それ」
+<53552,103959,18>"What are you talking about?"
+<53632,103978,7>sp0006a
+<53704,103986,10>aid_000101
+;<53752,89147,2>藍
+<53752,89147,2>Ai
+;<53760,103997,46>「ここの桜の森はまさに満開という感じだな……」
+<53760,103997,46>"The cherry blossoms here really are in fully bloom, aren't they?"
+;<53808,74928,4>直哉
+<53808,74928,4>Naoya
+;<53816,104044,20>「話そらすなよ……」
+<53816,104044,20>"Don't change the subject..."
+<53840,104065,10>aid_000102
+;<53888,89147,2>藍
+<53888,89147,2>Ai
+;<53896,104076,44>「桜は何度見ても同じ様に咲き、同じ様に散る」
+<53896,104076,44>"No matter how many times I see the cherry blossoms, they always bloom in the same way, and the petals always fall in the same way too"
+<53920,104121,10>aid_000103
+;<53968,89147,2>藍
+<53968,89147,2>Ai
+;<53976,104132,76>「同じでは無いのに……まるで10年前の桜も、昨日の桜も同じ様に咲いている……」
+<53976,104132,76>"Even though they're not the same...the cherry blossoms from yesterday bloom just like those that came ten years before..."
+<54000,104209,10>aid_000104
+;<54048,89147,2>藍
+<54048,89147,2>Ai
+;<54056,104220,56>「もしかしたら同じなんじゃないかと思ってしまう様に……」
+<54056,104220,56>"It almost makes you think that they might be the exact same cherry blossoms..."
+<54080,104277,10>aid_000105
+;<54128,89147,2>藍
+<54128,89147,2>Ai
+;<54136,104288,27>「でもたぶんそうではない。\n
+<54136,104288,27>"But that's probably not the case.\n
+;<54184,89147,2>藍
+<54184,89147,2>Ai
+;<54192,104316,90>桜はそれこそ１００年も１０００年も１００００年も前だって同じように咲いていたのだろう……」
+<54192,104316,90>Whether it was 100 years ago, 1000 years ago, or 10,000 years ago, cherry blossoms have probably always bloomed in the same way"
+<54216,104407,10>aid_000106
+;<54264,89147,2>藍
+<54264,89147,2>Ai
+;<54272,104418,58>「誰に見られる事がなくとも、それでも昨晩と同じように……」
+<54272,104418,58>"Even if no one's watching, just like last night..."
+<54296,104477,10>aid_000107
+;<54344,89147,2>藍
+<54344,89147,2>Ai
+;<54352,104488,20>「ずっと昔から……」
+<54352,104488,20>"Ever since the beginning of time..."
+<54376,104509,10>aid_000108
+;<54424,89147,2>藍
+<54424,89147,2>Ai
+;<54432,104520,38>「だから、桜は恐ろしいんだと思う……」
+<54432,104520,38>"That's why I think cherry blossoms are fearsome..."
+;<54480,74928,4>直哉
+<54480,74928,4>Naoya
+;<54488,79804,8>「……」
+<54488,79804,8>"..."
+<54512,104559,10>aid_000109
+;<54560,89147,2>藍
+<54560,89147,2>Ai
+;<54568,104570,46>「お前と私……最初に会った時も桜が咲いていた」
+<54568,104570,46>"The cherry blossoms were blooming when you and I first met too..."
+<54592,104617,10>aid_000110
+;<54640,89147,2>藍
+<54640,89147,2>Ai
+;<54648,104628,36>「まるで満開の桜の森の様だった……」
+<54648,104628,36>"It was just like this cherry blossom forest in full bloom"
+;<54696,74928,4>直哉
+<54696,74928,4>Naoya
+;<54704,104665,30>「ああ……四月生まれだからな」
+<54704,104665,30>"Yeah...since I'm born in April"
+<54728,104696,10>aid_000111
+;<54776,89147,2>藍
+<54776,89147,2>Ai
+;<54784,104707,35>「私はあの時うれしかったんだぞ……\n
+<54784,104707,35>"I was so happy back then...\n
+;<54832,89147,2>藍
+<54832,89147,2>Ai
+;<54840,104743,29>本当は悔しかったはずなのに、\n
+<54840,104743,29>Even though I really should have been frustrated,\n
+;<54888,89147,2>藍
+<54888,89147,2>Ai
+;<54896,104773,34>本当に、本当に、うれしかった……」
+<54896,104773,34>I was really, truly, happy..."
+;<54952,104808,20>　本当は悔しかった。
+<54952,104808,20>She should have been frustrated.
+;<55008,104829,24>　その意味は分からない。
+<55008,104829,24>I don't know what she means by that.
+;<55064,104854,58>　けど、何となく彼女の表情からその意味は察する事は出来た。
+<55064,104854,58>But judging from her expression, I was able to figure it out.
+;<55120,104913,54>　何故、悔しくて、そしてうれしく思ってくれたのか……。
+<55120,104913,54>Why she should have been frustrated, but was instead happy...
+<55200,104968,7>sp0011a
+<55272,104976,10>aid_000112
+;<55320,89147,2>藍
+<55320,89147,2>Ai
+;<55328,104987,29>「仮象のはるいろそらいちめん\n
+<55328,104987,29>"The semblance of a spring-colored slab of sky\n
+;<55376,89147,2>藍
+<55376,89147,2>Ai
+;<55384,105017,29>ただやみくもの因果的交流電燈\n
+<55384,105017,29>the communicative cause-and-effect lamp of dark clouds\n
+;<55432,89147,2>藍
+<55432,89147,2>Ai
+;<55440,105047,28>明るく明るく明るく灯ります」
+<55440,105047,28>shines brightly, brightly, brightly"
+<55464,105076,10>aid_000113
+;<55512,89147,2>藍
+<55512,89147,2>Ai
+;<55520,105087,21>「Watermelonの電気石\n
+<55520,105087,21>"Watermelon tourmaline\n
+;<55568,89147,2>藍
+<55568,89147,2>Ai
+;<55576,105109,19>音と言語の交差地点\n
+<55576,105109,19>the crossroads between sound and language\n
+;<55624,89147,2>藍
+<55624,89147,2>Ai
+;<55632,105129,28>ますます色彩過多の世界にて」
+<55632,105129,28>bringing us closer to an oversaturated world"
+<55656,105158,10>aid_000114
+;<55704,89147,2>藍
+<55704,89147,2>Ai
+;<55712,105169,24>「七つの櫻が追い越した」
+<55712,105169,24>"Overtaken by seven cherry blossoms"
+<55736,105194,10>aid_000115
+;<55784,89147,2>藍
+<55784,89147,2>Ai
+;<55792,105205,28>「わたしめがけて追い越した」
+<55792,105205,28>"Overtaken while aiming at me"
+<55816,105234,10>aid_000116
+;<55864,89147,2>藍
+<55864,89147,2>Ai
+;<55872,105245,31>「ふうけいより先にわたしはなく\n
+<55872,105245,31>"There is no me beyond the landscape\n
+;<55920,89147,2>藍
+<55920,89147,2>Ai
+;<55928,105277,30>わたしより先にふうけいはなく」
+<55928,105277,30>Beyond me there is no landscape"
+<55952,105308,10>aid_000117
+;<56000,89147,2>藍
+<56000,89147,2>Ai
+;<56008,105319,30>「追いかけ追いつきいなくなる」
+<56008,105319,30>"Chase, catch, disappear"
+<56032,105350,10>aid_000118
+;<56080,89147,2>藍
+<56080,89147,2>Ai
+;<56088,105361,38>「ふわふわとつつまれ世界は消えていく」
+<56088,105361,38>"The world wraps around me fluffily, and disappears"
+<56112,105400,10>aid_000119
+;<56160,89147,2>藍
+<56160,89147,2>Ai
+;<56168,105411,33>「ふわふわの櫻の森で世界が鳴った\n
+<56168,105411,33>"The world cries in the fluffy cherry blossom forest\n
+;<56216,89147,2>藍
+<56216,89147,2>Ai
+;<56224,105445,26>美しい音色で世界が鳴った」
+<56224,105445,26>The world cries with a beautiful timbre"
+;<56272,74928,4>直哉
+<56272,74928,4>Naoya
+;<56280,105472,41>「それが虚無ならば虚無自身がこのとほりで\n
+<56280,105472,41>"If that was nothingness, then nothingness itself is like this\n
+;<56328,74928,4>直哉
+<56328,74928,4>Naoya
+;<56336,105514,38>ある程度まではみんなに共通いたします」
+<56336,105514,38>This is common to everyone to some extent"
+;<56384,74928,4>直哉
+<56384,74928,4>Naoya
+;<56392,105553,45>「（すべてがわたくしの中のみんなであるやうに\n
+<56392,105553,45>"(Just like the world inside me is everything,\n
+;<56440,74928,4>直哉
+<56440,74928,4>Naoya
+;<56448,105599,44>　みんなのおのおののなかのすべてですから）」
+<56448,105599,44>That which is inside everyone, is all that there is)"
+<56528,89211,7>ev5000e
+;<56624,74928,4>直哉
+<56624,74928,4>Naoya
+;<56632,105644,78>「あの詩は、最後に宮澤賢治の『春と修羅・序』の一部分が引用されて終わっている」
+<56632,105644,78>"That poem ends with an excerpt from Kenji Miyazawa's 'Spring and Asura, Preface'"
+;<56680,74928,4>直哉
+<56680,74928,4>Naoya
+;<56688,105723,60>「通称『櫻ノ詩』、やつの作品をより難解にしたと言われている」
+<56688,105723,60>"Also known as 'The Cherry Blossom Poem', it's said to make his work even harder to decipher"
+<56720,89577,7>ev5000c
+<56744,105784,10>aid_000120
+;<56792,89147,2>藍
+<56792,89147,2>Ai
+;<56800,105795,40>「直哉にはどう聞こえるんだ？　この詩が」
+<56800,105795,40>"What do you hear in this poem Naoya?"
+;<56848,74928,4>直哉
+<56848,74928,4>Naoya
+;<56856,105836,72>「別に……あの男が残した言葉の意味なんて、俺が考える理由なんてない……」
+<56856,105836,72>"Well...I have no reason to think about the meaning behind the words that that man had left behind..."
+;<56904,74928,4>直哉
+<56904,74928,4>Naoya
+;<56912,105909,48>「ただ、その詩を聞くと、あいつの口癖を思い出す」
+<56912,105909,48>"It's just that when I hear that poem, I think about that phrase he liked"
+<56944,89211,7>ev5000e
+<56968,105958,10>aid_000121
+;<57016,89147,2>藍
+<57016,89147,2>Ai
+;<57024,105969,10>「口癖？」
+<57024,105969,10>"Phrase?"
+;<57072,74928,4>直哉
+<57072,74928,4>Naoya
+;<57080,105980,29>「What is mind ?　No matter.\n
+<57080,105980,29>"What is mind? No matter.\n
+;<57128,74928,4>直哉
+<57128,74928,4>Naoya
+;<57136,106010,30>What is matter ? Never mind.」
+<57136,106010,30>What is matter? Never mind"
+<57160,106041,10>aid_000122
+;<57208,89147,2>藍
+<57208,89147,2>Ai
+;<57216,106052,141>「What is mind ?　……心とは何か？　No matter. 物質ではない。What is matter ? 物質とは何か？ Never mind. 決して心ではない。そんなところか？」
+<57216,106052,141>"What is mind? (What is the mind?) No matter (It isn't matter) What is matter? (What is matter?) Never mind (Definitely not the mind). Something like this?"
+;<57264,74928,4>直哉
+<57264,74928,4>Naoya
+;<57272,106194,30>「いいや、違う。正しくは――」
+<57272,106194,30>"No, that's not it. More accurately it's..."
+;<57320,74928,4>直哉
+<57320,74928,4>Naoya
+;<57328,106225,36>「What is mind ?　心ってなんだよ？」
+<57328,106225,36>"What is mind? (What is the mind?)"
+;<57376,74928,4>直哉
+<57376,74928,4>Naoya
+;<57384,106262,33>「No matter. どうでもいいんだよ」
+<57384,106262,33>"No matter (It doesn't matter)"
+;<57432,74928,4>直哉
+<57432,74928,4>Naoya
+;<57440,106296,37>「What is matter ? 物ってなんだよ？」
+<57440,106296,37>"What is matter? (What are things?)"
+;<57488,74928,4>直哉
+<57488,74928,4>Naoya
+;<57496,106334,28>「Never mind. 気にすんなよ」
+<57496,106334,28>"Never mind (Don't worry about it)"
+;<57544,74928,4>直哉
+<57544,74928,4>Naoya
+;<57552,106363,18>「そういう意味だ」
+<57552,106363,18>"That's what it means"
+<57576,106382,10>aid_000123
+;<57624,89147,2>藍
+<57624,89147,2>Ai
+;<57632,106393,28>「それと何故さっきの詩が？」
+<57632,106393,28>"What does it have to do with that last poem?"
+;<57680,74928,4>直哉
+<57680,74928,4>Naoya
+;<57688,106422,54>「さぁな……。よく分からないが、そう思っただけだ……」
+<57688,106422,54>"No idea...I don't really know, but I just thought of it..."
+<57720,89577,7>ev5000c
+<57744,106477,10>aid_000124
+;<57792,89147,2>藍
+<57792,89147,2>Ai
+;<57800,106488,30>「なるほど、草薙らしいな……」
+<57800,106488,30>"I see. It's very much like you..."
+<57824,106519,10>aid_000125
+;<57872,89147,2>藍
+<57872,89147,2>Ai
+;<57880,106530,42>「お互い、あの人には振り回されるなぁ……」
+<57880,106530,42>"We're both always at his mercy, aren't we?"
+;<57928,74928,4>直哉
+<57928,74928,4>Naoya
+;<57936,79804,8>「……」
+<57936,79804,8>"..."
+;<57992,106573,20>　振り回されている。
+<57992,106573,20>At his mercy...
+;<58048,106594,10>　か……。
+<58048,106594,10>At his mercy...?
+;<58104,106605,34>　否定したところで……それは事実。
+<58104,106605,34>I went to deny it...but it was true.
+;<58160,106640,28>　そうとしか言えないか……。
+<58160,106640,28>Can I say anything other than that...?
+;<58208,74928,4>直哉
+<58208,74928,4>Naoya
+;<58216,106669,50>「たしかに、あのバカ野郎には振り回され続けた……」
+<58216,106669,50>"It's true, I'm still at the mercy of that asshole"
+<58248,89211,7>ev5000e
+<58272,106720,10>aid_000126
+;<58320,89147,2>藍
+<58320,89147,2>Ai
+;<58328,106731,26>「なんだ、突然、素直だな」
+<58328,106731,26>"Wow, you're suddenly so honest"
+;<58376,74928,4>直哉
+<58376,74928,4>Naoya
+;<58384,106758,56>「草薙健一郎とは、それほど長い時間過ごせなかったが……」
+<58384,106758,56>"Ken'ichiro Kusanagi wasn't around for very long..."
+;<58432,74928,4>直哉
+<58432,74928,4>Naoya
+;<58440,106815,54>「次、会ったらやってやろうと思っていた事があった……」
+<58440,106815,54>"There was always something I was going to do with him the next time I saw him..."
+<58464,106870,10>aid_000127
+;<58512,89147,2>藍
+<58512,89147,2>Ai
+;<58520,106881,26>「やってやろうとした事？」
+<58520,106881,26>"Something you were going to do with him?"
+;<58568,74928,4>直哉
+<58568,74928,4>Naoya
+;<58576,106908,38>「ああ、それも出来なくなったしな……」
+<58576,106908,38>"Yeah, but I ended up not being able to do it..."
+<58600,106947,10>aid_000128
+;<58648,89147,2>藍
+<58648,89147,2>Ai
+;<58656,106958,42>「健一郎に何をしたかったんだ？　直哉は？」
+<58656,106958,42>"What did you want to do with him Naoya?"
+;<58704,74928,4>直哉
+<58704,74928,4>Naoya
+;<58712,107001,46>「殴っておきたかった。とりあえず顔面をグーで」
+<58712,107001,46>"I wanted to punch him. Casually, with a fist, right in his face"
+<58744,89577,7>ev5000c
+<58768,107048,10>aid_000129
+;<58816,89147,2>藍
+<58816,89147,2>Ai
+;<58824,107059,66>「あははは、そうか、でもあの人の事だ、殴られたらすぐに反撃するぞ」
+<58824,107059,66>"Ahahaha, I see. But if he were punched, he'd strike back immediately"
+;<58872,74928,4>直哉
+<58872,74928,4>Naoya
+;<58880,107126,32>「だったらその分、俺も殴り返す」
+<58880,107126,32>"And then I'd hit him back just as hard"
+<58912,89211,7>ev5000e
+;<58960,74928,4>直哉
+<58960,74928,4>Naoya
+;<58968,107159,48>「最後に、俺が一度だけ多く殴る事が出来れば……」
+<58968,107159,48>"If I could, just one time, I'd punch him as much as I wanted..."
+;<59024,107208,12>　拳を握る。
+<59024,107208,12>I clench my fist.
+;<59080,107221,14>　とても強く。
+<59080,107221,14>Tightly.
+;<59128,74928,4>直哉
+<59128,74928,4>Naoya
+;<59136,107236,28>「それで満足だったんだがな」
+<59136,107236,28>"And then I'd be satisfied"
+<59168,89577,7>ev5000c
+;<59224,107265,26>　藍はやわらかくほほえむ。
+<59224,107265,26>Ai smiles softly.
+<59248,107292,10>aid_000130
+;<59296,89147,2>藍
+<59296,89147,2>Ai
+;<59304,107303,27>「それは見てみたかったな。\n
+<59304,107303,27>"I wanted to see it.\n
+;<59352,89147,2>藍
+<59352,89147,2>Ai
+;<59360,107331,38>健一郎さんと直哉のタイマン勝負か……」
+<59360,107331,38>Ken'ichiro and Naoya, mano a mano"
+;<59408,74928,4>直哉
+<59408,74928,4>Naoya
+;<59416,107370,44>「いや、そこは止めるところだろ。教師として」
+<59416,107370,44>"Wait, as a teacher, don't you think you should be stopping it?"
+<59440,107415,10>aid_000131
+;<59488,89147,2>藍
+<59488,89147,2>Ai
+;<59496,107426,74>「あははは、そうだな。もしその場だったら止めなければいけないのだよな……」
+<59496,107426,74>"Ahahaha, that's right. If I were there, I'd have to stop you two..."
+;<59544,74928,4>直哉
+<59544,74928,4>Naoya
+;<59552,107501,32>「その場があったらだけど……な」
+<59552,107501,32>"If that situation happened, that is..."
+<59584,89211,7>ev5000e
+<59608,107534,10>aid_000132
+;<59656,89147,2>藍
+<59656,89147,2>Ai
+;<59664,79804,8>「……」
+<59664,79804,8>"..."
+;<59712,74928,4>直哉
+<59712,74928,4>Naoya
+;<59720,107545,20>「永遠に無いけどな」
+<59720,107545,20>"But it never will"
+<59744,107566,10>aid_000133
+;<59792,89147,2>藍
+<59792,89147,2>Ai
+;<59800,107577,42>「す、すまん。最後に少し湿っぽくなったか」
+<59800,107577,42>"I- I'm sorry. Did I make things a little too depressing?"
+;<59848,74928,4>直哉
+<59848,74928,4>Naoya
+;<59856,107620,14>「いや、別に」
+<59856,107620,14>"No, don't worry about it"
+;<59904,74928,4>直哉
+<59904,74928,4>Naoya
+;<59912,107635,56>「それ以外にあの男との間にやり残した事はないからな……」
+<59912,107635,56>"Other than that, there's nothing I have left to do with that man..."
+;<59960,74928,4>直哉
+<59960,74928,4>Naoya
+;<59968,107692,74>「俺は俺なりに、いろいろな形で整理をつけたからな……あいつとの関係は……」
+<59968,107692,74>"I've already, in my own way, dealt with everything...as far as my relationship with that guy goes..."
+;<60016,74928,4>直哉
+<60016,74928,4>Naoya
+;<60024,107767,48>「それに、湿っぽいのはあいつが一番嫌ったことだ」
+<60024,107767,48>"And more importantly, that guy hated depressing moods more than anything"
+;<60072,74928,4>直哉
+<60072,74928,4>Naoya
+;<60080,107816,92>「さすがにエンジョイは出来なかったが、せめて心を湿らせることなくあいつを見送れたと思う……」
+<60080,107816,92>"Of course I didn't enjoy it, but I think I could have sent that guy off without getting depressed..."
+;<60136,107909,30>　俺の言葉に、小さく藍が頷く。
+<60136,107909,30>Upon hearing my words, Ai nods slightly.
+<60168,89577,7>ev5000c
+<60192,107940,10>aid_000134
+;<60240,89147,2>藍
+<60240,89147,2>Ai
+;<60248,88509,14>「そうか……」
+<60248,88509,14>"I see..."
+<60272,107951,10>aid_000135
+;<60320,89147,2>藍
+<60320,89147,2>Ai
+;<60328,107962,44>「直哉は直哉でいろいろあったんだもんな……」
+<60328,107962,44>"I guess you've been through a lot after all..."
+;<60376,74928,4>直哉
+<60376,74928,4>Naoya
+;<60384,108007,22>「ああ、そうだな……」
+<60384,108007,22>"Yeah, that's right..."
+<60408,108030,10>aid_000136
+;<60456,89147,2>藍
+<60456,89147,2>Ai
+;<60464,108041,38>「あはは、さてとそろそろ帰るかな……」
+<60464,108041,38>"Ahaha, well, let's head back..."
+;<60512,74928,4>直哉
+<60512,74928,4>Naoya
+;<60520,108080,12>「ああ……」
+<60520,108080,12>"Sure..."
+<60552,89211,7>ev5000e
+<60576,108093,10>aid_000137
+;<60624,89147,2>藍
+<60624,89147,2>Ai
+;<60632,108104,48>「そうだ。さっきの話、ちゃんと考えておいてくれ」
+<60632,108104,48>"Oh, that's right! What we talked about earlier, make sure you think it over"
+;<60680,74928,4>直哉
+<60680,74928,4>Naoya
+;<60688,108153,48>「ああ……夏目の屋敷でやっかいになるって話だろ」
+<60688,108153,48>"Sure...you mean me staying over at the Natsume mansion, right?"
+<60712,108202,10>aid_000138
+;<60760,89147,2>藍
+<60760,89147,2>Ai
+;<60768,108213,26>「良い返事を待っているぞ」
+<60768,108213,26>"I'm waiting for some good news from you"
+<60848,108240,7>sp0004b
+;<60952,108248,24>　藍の姿が見えなくなり、
+<60952,108248,24>Ai disappears from my sight.
+;<61008,108273,12>　風が鳴る。
+<61008,108273,12>The wind howls.
+;<61064,108286,26>　遠くで、風が鳴っている。
+<61064,108286,26>The wind is howling from afar.
+;<61120,108313,32>　耳鳴りにも似た、低くうなる音。
+<61120,108313,32>It was a low reverberation, like a ringing in my ears.
+;<61176,108346,48>　別に桜の森の下で、美しい音色など鳴りはしない。
+<61176,108346,48>Under the cherry blossom forest, there's no reason for sounds to be beautiful too.
+;<61232,108395,66>　ふわふわの白い花びらは、低くうなる風に無惨にまき散らされるだけ。
+<61232,108395,66>The fluffy, white petals, brutally strewn apart by the low reverberation of the wind.
+;<61288,108462,18>　当たり前な風景。
+<61288,108462,18>An obvious landscape.
+;<61336,74928,4>直哉
+<61336,74928,4>Naoya
+;<61344,108481,26>「ふぅ……俺も帰るか……」
+<61344,108481,26>"Hmm...guess I should head back too..."
+;<61392,74928,4>直哉
+<61392,74928,4>Naoya
+;<61400,79804,8>「……」
+<61400,79804,8>"..."
+;<61456,108508,40>　誰に聞かせるでもなく独り言をつぶやく。
+<61456,108508,40>I whispered to myself, without anyone to hear me in the first place.
+;<61512,108549,48>　薄汚い音色の咆哮、為すがままに舞う桜の花びら。
+<61512,108549,48>The roar of a drab timbre, and cherry blossom petals dancing at its mercy.
+;<61568,108598,50>　桜の咲く日に死んだ父に、俺は最後の別れを告げた。
+<61568,108598,50>I say my final farewell to my father, who died on a day when the cherry blossoms bloomed.
+<61648,108649,7>sp0004c
+<61792,108657,7>bg1003b
+<61832,108665,6>bgm002
+;<61944,108672,66>　まっすぐ帰るつもりであったが、足はそのままこの場所に向いていた。
+<61944,108672,66>I had intended on heading straight home, but my legs brought me here instead.
+;<62000,108739,68>　気が付けば毎日踏みしめる石畳の坂を少しだけ息を切らせて昇っている。
+<62000,108739,68>I realize that I'm losing my breath slightly while climbing up the stone-paved hill that I tread daily.
+;<62056,108808,78>　俺が通う学園に続くこの坂道も親父の葬儀場と同じように桜で埋め尽くされていた。
+<62056,108808,78>This hill leading to my academy was buried in cherry blossoms, similarly to the venue of my father's funeral.
+;<62112,108887,34>　“<r ゆめのうきさか>夢浮坂</r>”
+<62112,108887,34>'Floating Dream Hill'
+;<62168,108922,84>　いかにもな由来がありそうなこの坂の名、だがその由来を俺はそれほど詳しくは知らない。
+<62168,108922,84>There must be a reason this hill is named in such a way, but I don't really know why.
+;<62224,109007,56>　ただ、多くの伝承が混ざり合って出来た名だと聞いている。
+<62224,109007,56>I've only heard that the hill's name was made out of many legends that got mixed up.
+<62304,109064,8>bg1059b1
+;<62384,109073,56>　この坂道の脇には、神社の境内にある様な小さな社がある。
+<62384,109073,56>To the side of this hill, there's a Shinto shrine, and a miniature shrine within its grounds.
+;<62440,109130,44>　いわゆる<r せっしゃ>摂社</r>というやつだ。
+<62440,109130,44>These smaller shrines are known as 'sessha'.
+;<62496,109175,38>　宝船が描かれた絵巻が奉納されている。
+<62496,109175,38>A treasure ship, drawn onto a scroll, is featured as a dedication to the gods. 
+;<62552,109214,80>　この意味を知る者ならば“夢浮坂”の名の由来も少しは想像がきくかもしれない……。
+;<62552,109214,80>Those who know its meaning might be able to guess at the etymology behind the name 'Floating Dream Hill'.
+<62632,108657,7>bg1003b
+;<62688,109295,74>　夢浮坂を上っていくと、構内にある礼拝堂のとんがり帽子が徐々に見えてくる。
+<62688,109295,74>As I climb further up Floating Dream Hill, the steeple of a chapel slowly comes into view.
+<62736,109370,6>map001
+<62808,109370,6>map001
+<62816,109377,7>bg1000b
+;<62920,109385,60>　尖頭アーチを交差させる事によって作られる独特なシルエット。
+<62920,109385,60>A peculiar silhouette, formed by the crossing of two pointed arches.
+;<62976,109446,62>　桜生い茂る弓張の丘に建てられたこの学園の名を弓張学園という。
+<62976,109446,62>This academy, Yumihari Academy, was built on Yumihari hill, upon which cherry blossoms had grown thick.
+;<63032,109509,38>　階段を上りきった場所で人とすれ違う。
+<63032,109509,38>I come across a person upon climbing the steps.
+;<63088,109548,64>　人通りが少ない夕日に照らされた坂の上に立つ影は印象的であった。
+<63088,109548,64>Their shadow, standing on the hill and illuminated by the setting sun, left a strong impression in this area which was infrequented by people.
+;<63136,74928,4>直哉
+<63136,74928,4>Naoya
+;<63144,99158,6>「？」
+<63144,99158,6>"?"
+;<63192,74928,4>直哉
+<63192,74928,4>Naoya
+;<63200,109613,46>「今の娘の制服は弓張学園のものじゃないな……」
+<63200,109613,46>"Her uniform isn't that of Yumihari Academy"
+;<63248,74928,4>直哉
+<63248,74928,4>Naoya
+;<63256,109660,26>「見学か何かだろうか……」
+<63256,109660,26>"Maybe she's just on a visit..."
+;<63312,109687,124>　春休みということもあって弓張の近隣には人の気配がほとんど無い。大半の部活などもおそらく午前中に終えてしまっているのだろう。
+<63312,109687,124>Since we're in spring vacation, there are hardly any traces of people in the Yumihari area. Most of the clubs also probably ended their activities in the morning as well.
+;<63368,109812,56>　俺はやや大股気味に正門を抜けると目的の場所へと急いだ。
+<63368,109812,56>I went through the front gate with a bit of a gaudy stride, and hurried to my destination.
+<63416,109370,6>map001
+<63488,109370,6>map001
+<63496,109869,7>bg1001b
+;<63600,109877,82>　戦後しばらくまでカトリック系だった弓張学園は、当時は神学科のみの神学校であった。
+<63600,109877,82>Yumihari Academy was a Catholic school up until just after World War II, at that time only having a School of Theology.
+;<63656,109960,86>　<r けいけん>敬虔</r>な父の子と母の子たちが通う神の加護を受けた学び舎であったという。
+<63656,109960,86>It was said to be a place of learning, protected by God, for those with filial piety.
+;<63712,110047,70>　しかし、現在では神学科は廃され、ごくありふれた学校と成り果てている。
+<63712,110047,70>At the present, however, the School of Theology has been abolished, and Yumihari Academy has been reduced to a very normal school.
+;<63768,110118,12>　それ以前。
+<63768,110118,12>But before that...
+;<63824,110131,62>　戦前より遙か先、この学園の立つ土地の歴史はとてつもなく古い。
+<63824,110131,62>Long before World War II, the land upon which this academy stood was steeped in history.
+;<63880,110194,108>　学園自体は明治の頃に渡ってきた外人が作った英学塾がもとである様だが、さらにその系譜をさかのぼる事が出来る。
+<63880,110194,108>The academy itself was said to have been created as an English instruction school by a foreigner who arrived in the Meiji era, but its ancestry can be traced even further back.
+;<63936,110303,74>　もちろん、明治以前であるわけだから、近代的な学問所であったわけではない。
+<63936,110303,74>Of course, prior to the Meiji era, there were no such modern places of learning.
+;<63992,110378,78>　それでも江戸時代にはすでにこの地には何かしらの学問的な建造物があったという。
+<63992,110378,78>Nevertheless, in the Edo era it is said that there was already some sort of academic building here.
+;<64048,110457,148>　学問的な建造物と言っても、江戸に一般的にあったと言われる<r しゅせきしなんじょ>手習指南所</r>よりも、極めて神道系の宗教色が強いものであったらしい。
+<64048,110457,148>Although I say it was an academic building, rather than the normal calligraphy training centers that were common in the Edo era, it was said to have been strongly influenced by Shinto teachings.
+;<64104,110606,90>　さらに、大昔……。鎌倉時代初期には修験の地として多くの修験者が籠もったとも言われている。
+<64104,110606,90>And even further, long ago, in the early Kamakura period, many monks were said to have holed themselves up on this land, practicing syncretic mountain worship.
+;<64160,110697,78>　このように古き土地であるから、“夢浮坂”に見られるような、多くの伝承を持つ。
+<64160,110697,78>As this land has a long history in antiquity it naturally contains many legends, as can be seen in the name of 'Floating Dream Hill'.
+;<64216,110776,58>　弓張の名は、一説によると古き伝承が元になっているらしい。
+<64216,110776,58>There is a theory that the name Yumihari also has its basis in an ancient legend.
+;<64272,110835,40>　とは言っても、それは忘れ去られた伝承。
+<64272,110835,40>But that legend itself has been long forgotten.
+;<64328,110876,30>　多くの者が知る伝承ではない。
+<64328,110876,30>Very few know of that legend.
+;<64376,74928,4>直哉
+<64376,74928,4>Naoya
+;<64384,110907,34>「夢張りの地に、夢の浮く坂か……」
+<64384,110907,34>"A hill on which dreams float...on land on which dreams are drawn like a bow..."
+;<64440,110942,92>　桜に囲まれた古色蒼然とした建物に、自らの<r きょうおん>跫音</r>が残されていくかの様だった。
+<64440,110942,92>I felt as though the sound of my footsteps were being left behind for some lonely soul, in this ancient building enclosed by cherry blossoms.
+<64488,109370,6>map001
+<64544,111035,6>se2308
+<64616,109370,6>map001
+<64624,111042,7>bg1002b
+;<64680,111050,52>　やや立て付けの悪くなった扉を開き、俺は室内へ入る。
+<64680,111050,52>I opened the slightly jammed door, and entered the room.
+;<64768,111103,70>　部屋からは、斜光に焼きつけられたアトリエ特有の香りが立ちこめていた。
+<64768,111103,70>In that room there was a pleasant scent that was particular to an atelier which had been baked in diagonal light.
+;<64824,111174,66>　最上階にあるアトリエは外光を良く取り入れて、空と同じ色に染まる。
+<64824,111174,66>The atelier at the highest floor of the academy took in natural light well, and was dyed in the same color as the sky.
+;<64880,111241,84>　俺は、雑然と並んだ長机と長椅子の間を縫うようにして、美術室の最後尾へと歩み寄った。
+<64880,111241,84>I weaved my way through the desks and chairs that were disorderly strewn about, and made my way to the very back of the studio.
+;<64936,111326,96>　そこには美術部員たちが使用している各種用具が置いてあり、俺の目当てのものもそこに埋もれていた。
+<64936,111326,96>There were several different tools that the art students used laid about, and among them was buried the item for which I had been searching.
+;<64992,111423,126>　夏目圭専用と、マーカーで書かれたイーゼルをどかすと、その下からは、絵の具が幾多にも染み付いた、古ぼけたイーゼルが姿を現した。
+<64992,111423,126>I moved away an easel on which was written 'For Kei Natsume's use only', and under it an old easel which was dyed in many types of paint had shown its figure.
+;<65048,111550,20>　このイーゼル……。
+<65048,111550,20>This easel...
+<65204,87989,5>Black
+<65420,111571,7>bg1049a
+;<65516,111579,4>老人
+<65516,111579,4>Old man
+;<65524,111584,106>「春先から、草薙健一郎先生の回顧展を開催するので作品と、できれば氏が使っていた美術用具を貸して頂けないか」
+<65524,111584,106>"In early spring we'll be holding a retrospective exhibition featuring the works of Mr. Ken'ichiro Kusanagi, so if possible, would we be able to borrow some of his works, and the art tools that he used?"
+;<65580,111691,88>　父が懇意にしていた美術館の館長から切り出されたのは葬儀の当日。つまり今日の事であった。
+<65580,111691,88>A museum curator who was good friends with my father had spoken to me on the day of his funeral, in other words, today.
+;<65636,111780,100>　できれば回顧展が終わった後も美術館の１コーナーとして草薙氏の遺品を預からせて欲しい。との事だった。
+<65636,111780,100>He said that even after the retrospective exhibition had ended, the museum wanted to borrow some works that he had left behind, in order to dedicate a corner to Ken'ichiro Kusanagi.
+;<65692,111881,86>　人の良さそうな老館長は、曲がり始めた腰を伸ばすようにしてその提言を俺へと投げかけた。
+<65692,111881,86>This elderly, seemingly gentle curator straightened his back which was beginning to hunch over, and made his proposal.
+<65848,87989,5>Black
+<66016,111042,7>bg1002b
+;<66120,111968,44>　別に<r せ>急</r>かされたわけでは無かった。
+<66120,111968,44>It didn't seem like he was in any rush.
+;<66176,112013,58>　たぶん数週間後ぐらいにでも送れば良いものなのだろう……。
+<66176,112013,58>It would probably be fine to hand over the works a few weeks later...
+;<66224,74928,4>直哉
+<66224,74928,4>Naoya
+;<66232,112072,26>「これでいいんだよな……」
+<66232,112072,26>"This one seems fine..."
+;<66288,112099,36>　ガキの頃に親父からもらったものだ。
+<66288,112099,36>It's something I received from my father as a little kid.
+;<66344,112136,108>　かなり大きめの頑丈なイーゼルで、ガキが使えたもんじゃなかったが、それでも子供の時は背伸びして使ったもんだ。
+<66344,112136,108>It was a fairly large and sturdy easel, and not something that a little kid could have used. But nevertheless, as a child I stretched out as much as I could and used it.
+;<66400,112245,30>　あの謎のギブスとともに……。
+<66400,112245,30>Along with that weird cast...
+;<66448,74928,4>直哉
+<66448,74928,4>Naoya
+;<66456,112276,38>「ああ……思い出すだけでムカつく……」
+<66456,112276,38>"Ah...just thinking about it makes me angry..."
+;<66512,112315,48>　健一郎関係の記憶はだいたいムカつく事しかない。
+<66512,112315,48>When I remember things connected to Ken'ichiro, I feel nothing but anger.
+;<66568,112364,20>　それにしても……。
+<66568,112364,20>But still...
+;<66616,74928,4>直哉
+<66616,74928,4>Naoya
+;<66624,112385,44>「今見ると、たいして大きくないんだよな……」
+<66624,112385,44>"When I look at it now, it's really not so big..."
+;<66680,112430,36>　使ってみてもちょうど良いぐらいだ。
+<66680,112430,36>If I were to use it, it would probably be just right.
+<66728,112467,6>se1107
+;<66808,74928,4>直哉
+<66808,74928,4>Naoya
+;<66816,112474,10>「あ……」
+<66816,112474,10>"Ah..."
+<66848,112485,6>se1616
+;<66904,112492,85>　イーゼルを引っ張り出して肩にかけると、積み上げていた他のイーゼル達が一斉に崩れる。\n
+<66904,112492,85>I lifted up the easel and put it on my shoulder, at which point all of the other easels stacked upon it fell down at once.\n
+;<66960,112578,52>窓から差し込む陽光が、舞い散る埃を浮かび上がらせる。
+<66960,112578,52>The sunlight coming in from the window illuminated the fluttering dust.
+;<67040,74928,4>直哉
+<67040,74928,4>Naoya
+;<67048,112631,82>「あははは……しまったな……やっぱり後日、美術部員がいる時にやればよかったな……」
+<67048,112631,82>"Ahahaha...I screwed up huh...I really should have just done this later, when the art students were around..."
+;<67096,74928,4>直哉
+<67096,74928,4>Naoya
+;<67104,112714,20>「とは言っても……」
+<67104,112714,20>"But even still..."
+;<67160,112735,50>　数日したら、頼まれごとなどだいたい忘れてしまう。
+<67160,112735,50>After a few days, I usually forget what's asked of me.
+;<67216,112786,62>　頼まれたら、とっとと終わらせないと気が済まない質なのだ……。
+<67216,112786,62>I'm the type of person who needs to get things done as soon as they're asked...
+;<67264,74928,4>直哉
+<67264,74928,4>Naoya
+;<67272,112849,22>「覆水盆に返らず……」
+<67272,112849,22>"No use crying over spilled milk..."
+;<67328,112872,46>　崩れてしまったイーゼルは元には戻らない……。
+<67328,112872,46>I can't get the fallen easels back to the way they were...
+;<67384,112919,30>　「そんなわけないやんけー！」
+<67384,112919,30>"What do you mean you can't!?"
+;<67440,112950,48>　とか突っ込む人もいないので、速やかに退散する。
+<67440,112950,48>There was no one around to butt in with a joke like that, so I just quickly left.
+<67520,112999,7>bg1003e
+;<67576,113007,8>　……。
+<67576,113007,8>...
+;<67632,113016,26>　風が、肌を撫でるたびに。
+<67632,113016,26>Every time the wind brushes against my skin...
+;<67688,113043,52>　並木の桜たちが静かにざわめき、白桃の欠片を散らす。
+<67688,113043,52>The row of cherry blossoms rustles softly, and scatters peach-colored fragments.
+;<67736,74928,4>直哉
+<67736,74928,4>Naoya
+;<67744,113096,20>「やっぱり重い……」
+<67744,113096,20>"This really is heavy..."
+;<67800,113117,44>　このイーゼルは頑丈な分、とてつもなく重い。
+<67800,113117,44>This easel is as heavy as it is sturdy.
+;<67848,74928,4>直哉
+<67848,74928,4>Naoya
+;<67856,113162,12>「ふぅ……」
+<67856,113162,12>"Huu..."
+;<67912,113175,20>　自然と足が止まる。
+<67912,113175,20>My feet stop naturally.
+;<67968,113196,56>　まるで舞い落ちる花弁が俺の行方を遮っているかのように。
+<67968,113196,56>It's as if the fluttering petals are blocking off my path.
+;<68024,113253,14>　その時――。
+<68024,113253,14>And then...
+<68128,113268,7>lse0723
+;<68280,113276,10>「――！」
+<68280,113276,10>"...!"
+;<68368,113287,52>　身体をすり抜けるかのような突風が、夢浮坂を走った。
+<68368,113287,52>A sudden wind runs through Floating Dream Hill, as if trying to pass right by my body.
+;<68424,113340,62>　この街で生まれて、何百回、いや何千回もこの夢浮の坂を登った。
+<68424,113340,62>Since being born in this town, I've climbed Floating Dream Hill hundreds, no, thousands of times.
+;<68480,113403,30>　そのどの時とも違う気がした。
+<68480,113403,30>This time felt different from all of them.
+;<68536,113434,12>　桜の旋律。
+<68536,113434,12>Cherry blossom melody.
+;<68592,113447,62>　まるで何かに共鳴して、すべての桜がざわめいているかの様な――
+<68592,113447,62>All of the cherry blossoms are rustling, as if trying to resonate with something...
+;<68648,113510,24>　重なり合う奇妙な音響。
+<68648,113510,24>Bizzare reverberations being stacked against each other.
+;<68704,113535,58>　巻き上がる桜から目を逸らすように、俺は片腕で眼前を覆う。
+<68704,113535,58>I cover my eyes with one of my arms, as if to divert my gaze from the cherry blossoms curling up in front of me.
+;<68760,113594,12>　ふと――。
+<68760,113594,12>And suddenly...
+;<68856,113607,14>　風が、止む。
+<68856,113607,14>The wind stops.
+<68936,112999,7>bg1003e
+;<69040,113622,48>　木立のざわめきが消え、瞬間、世界に静寂が宿る。
+<69040,113622,48>The rustling of the trees disappears, and in an instant, the world dwells in silence.
+;<69096,113671,42>　だが、すぐにそれが錯覚であると気が付く。
+<69096,113671,42>But I soon realize that had been an illusion.
+;<69152,113714,74>　凜とした木々のざわめきが、遠くに聞こえる街の喧騒も――何もかも消しさり、
+<69152,113714,74>The rustling of the imposing trees, and the bustle of the town in the distance...all of it had disappeared...
+;<69208,113789,54>　視界に舞い散る色だけを際だたせているかの様であった。
+<69208,113789,54>As if to emphasize the colors fluttering in my vision.
+;<69264,113844,24>　音の中にある静寂の中。
+<69264,113844,24>In the silence in the sound.
+;<69320,113869,36>　誘われるように、俺は、顔を上げる。
+<69320,113869,36>I lift my head as if beckoned.
+;<69376,113906,47>　コンクリートで塗り込められた視界が、広がる。\n
+<69376,113906,47>My vision, shrouded in concrete, widens.\n
+;<69432,113954,24>ゆっくりと、ゆっくりと。
+<69432,113954,24>Slowly. Slowly.
+<69520,113979,6>bgm031
+<69560,113986,7>ev1000a
+;<69664,113007,8>　……。
+<69664,113007,8>...
+;<69720,113994,12>　少女……？
+<69720,113994,12>A girl...?
+<69752,114007,10>szd_000001
+;<69808,74896,6>？？？
+<69808,74896,6>???
+;<69816,79804,8>「……」
+<69816,79804,8>"..."
+;<69872,114018,12>　誰……だ？
+<69872,114018,12>Who...is it?
+;<69928,114031,34>　どこかで会った事があるのか……。
+<69928,114031,34>Have I met her before...?
+;<69984,114066,90>　色素をほとんど感じさせない、白磁の肌。距離を置いてもわかるほどに、整った形をした目、鼻。
+<69984,114066,90>Porcelain skin that won't allow you to sense a trace of pigment. Eyes and a nose so prim that you could tell from a distance.
+;<70040,114157,54>　そして――感情を押し殺すかのように、硬く結ばれた唇。
+<70040,114157,54>And...tightly shut lips, as if to stifle your emotions.
+;<70096,114212,58>　伏せ目がちの表情が、どことなく冷淡な印象を抱かせる……。
+<70096,114212,58>Her expression, complete with half-shut eyes, bears with it an ineffable, cold impression.
+;<70152,114271,46>　少女の視線は、真っ直ぐに、俺へと伸びている。
+<70152,114271,46>Her eyes are locked onto me.
+;<70208,114318,20>　その瞳を見た瞬間。
+<70208,114318,20>As soon as I saw those eyes.
+;<70264,114339,34>　俺は彼女の名を口にしそうになる。
+<70264,114339,34>I felt as though I were about to speak her name.
+;<70320,114374,10>　だが――
+<70320,114374,10>But...
+<70352,114385,6>se2340
+<70400,114392,6>map034
+<70408,114399,5>white
+;<70528,114405,12>　「――！」
+<70528,114405,12>"...!"
+;<70616,114418,10>　風の音。
+<70616,114418,10>The sound of wind.
+;<70704,114429,44>　音の均衡がやぶられ、視界が桜で白く染まる。
+<70704,114429,44>The equilibrium of sound is broken, and my eyesight is dyed white with cherry blossoms.
+;<70760,114474,28>　舞い上がる風で視界を失う。
+<70760,114474,28>The whirling wind blinds me.
+;<70816,114503,14>　そして――。
+<70816,114503,14>And then...
+<70864,114392,6>map034
+<70872,112999,7>bg1003e
+;<70968,74928,4>直哉
+<70968,74928,4>Naoya
+;<70976,79804,8>「……」
+<70976,79804,8>"..."
+;<71024,74928,4>直哉
+<71024,74928,4>Naoya
+;<71032,114518,14>「消えた……」
+<71032,114518,14>"She's gone..."
+;<71088,114533,10>　まるで。
+<71088,114533,10>Just like...
+;<71144,114544,18>　桜の見る夢に――
+<71144,114544,18>A cherry blossom dream...
+;<71200,114563,32>　<r さら>攫</r>われた様に――。
+<71200,114563,32>As if abducted...
+;<71256,114596,38>　また、夢張りの丘は静けさを取り戻す。
+<71256,114596,38>The hill on which dreams are drawn like a bow...regains its silence.
