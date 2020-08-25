@@ -1,2 +1,2 @@
-# English_Sakura_no_Uta
+# Sakura no Uta English Translation
 Sakura no Uta translation by Gambs
