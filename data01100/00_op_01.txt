@@ -783,9 +783,9 @@
 ;<17636,82135,50>　俺の父親は「世界的に名の知れた芸術家」であった。
 <17636,82135,50>My father was known as a "world-renowned artist".
 ;<17692,82186,29>　世界的に名の知れた芸術家。\n
-<17692,82186,29>Could a "world-renowned artist" 
+<17692,82186,29>"World-renowned artist".\n
 ;<17748,82216,48>今の時代、こんな胡散臭い響きが他にあるだろうか？
-<17748,82216,48>have such a suspicious aura in this age?
+<17748,82216,48>In this age, could anything sound more suspicious?
 ;<17804,82265,14>　あり得ない。
 <17804,82265,14>Impossible.
 ;<17860,82280,50>　だから彼は、胡散臭い芸術家としても知られていた。
