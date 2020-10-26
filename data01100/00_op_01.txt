@@ -946,7 +946,7 @@
 ;<22308,84618,42>　男は草薙健一郎の管財人だと名乗っていた。
 <22308,84618,42>That man claimed to be the executor of Ken'ichiro Kusanagi's estate.
 ;<22364,84661,48>　もちろん俺はこの男とまったく面識が無い設定だ。
-<22364,84661,48>Of course, I had never met him before.
+<22364,84661,48>Of course, I shouldn't have ever met him before.
 ;<22420,84710,58>　実際、健一郎とどんな関係なのかすら良く理解してなかった。
 <22420,84710,58>And actually, I didn't even really understand his connection with Ken'ichiro.
 <22444,84769,10>frd_000002
